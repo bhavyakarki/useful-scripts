@@ -1,2 +1,2 @@
 # useful-scripts
-Handy scripts for parsing files, references, etc
+Handy scripts for parsing files, references, adding wiki etc
