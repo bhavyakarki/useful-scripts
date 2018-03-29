@@ -1,0 +1,1924 @@
+hi
+./WL1/2017-12-07_hr_sdb_sdb_config.tsv_t.tsv = (272, 427)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_config.tsv_t.tsv = (193, 427)
+('WL1: ', 229)
+('WL2: ', 226)
+Unnamed: 0 = 1.25864000416e-08
+sdb_config.analyze_sample_block_count = nan
+sdb_config.application_name = --
+sdb_config.application_version = nan
+sdb_config.archive_timeout = nan
+sdb_config.authentication_timeout = nan
+sdb_config.autoexpire_check_interval = nan
+sdb_config.autoflush_check_interval = nan
+sdb_config.autoflush_target_flush_size = nan
+sdb_config.autoflush_used_percent = nan
+sdb_config.autoflush_used_threshold = nan
+sdb_config.automerge_check_interval = nan
+sdb_config.automerge_daemon_restart_time = nan
+sdb_config.automerge_input_er_limit = nan
+sdb_config.automerge_level0_threshold = nan
+sdb_config.automerge_level1_threshold = nan
+sdb_config.automerge_level2_threshold = nan
+sdb_config.automerge_level3_threshold = nan
+sdb_config.automerge_output_extent_limit = nan
+sdb_config.autovacuum_analyze_scale_factor = 4.1026542207e-10
+sdb_config.autovacuum_analyze_threshold = nan
+sdb_config.autovacuum_freeze_max_age = nan
+sdb_config.autovacuum_max_workers = nan
+sdb_config.autovacuum_multixact_freeze_max_age = nan
+sdb_config.autovacuum_naptime = nan
+sdb_config.autovacuum_vacuum_cost_delay = nan
+sdb_config.autovacuum_vacuum_cost_limit = nan
+sdb_config.autovacuum_vacuum_scale_factor = 4.1026542207e-10
+sdb_config.autovacuum_vacuum_threshold = nan
+sdb_config.autovacuum_work_mem = nan
+sdb_config.backend_flush_after = nan
+sdb_config.backend_mem = nan
+sdb_config.bgwriter_delay = nan
+sdb_config.bgwriter_flush_after = nan
+sdb_config.bgwriter_lru_maxpages = nan
+sdb_config.bgwriter_lru_multiplier = nan
+sdb_config.block_cache_size = 3.69015164881e-11
+sdb_config.block_size = nan
+sdb_config.bonjour_name = --
+sdb_config.buf_max_clock_sweeps = nan
+sdb_config.buf_max_clock_touches = nan
+sdb_config.buf_max_validation_retries = nan
+sdb_config.buf_validation_sleep_micros = nan
+sdb_config.catalog_cache_size = nan
+sdb_config.checkpoint_completion_target = nan
+sdb_config.checkpoint_flush_after = nan
+sdb_config.checkpoint_timeout = nan
+sdb_config.checkpoint_warning = nan
+sdb_config.cluster_name = --
+sdb_config.commit_delay = nan
+sdb_config.commit_siblings = nan
+sdb_config.corrsq_cache_rows = nan
+sdb_config.cpu_index_tuple_cost = 1.0
+sdb_config.cpu_operator_cost = 1.0
+sdb_config.cpu_tuple_cost = 1.0
+sdb_config.cursor_tuple_fraction = 4.1026542207e-10
+sdb_config.daemon_mem = nan
+sdb_config.deadlock_timeout = nan
+sdb_config.default_statistics_target = nan
+sdb_config.default_tablespace = --
+sdb_config.effective_cache_size = nan
+sdb_config.effective_io_concurrency = nan
+_________________________ sdb_config.extended_pathkey_derivation
+sdb_config.extent_file_cache_size = nan
+sdb_config.extent_index_ref_queue_size = nan
+sdb_config.extra_float_digits = nan
+sdb_config.from_collapse_limit = nan
+sdb_config.function_cache_size = nan
+sdb_config.geqo_effort = nan
+sdb_config.geqo_generations = nan
+sdb_config.geqo_pool_size = nan
+sdb_config.geqo_seed = nan
+sdb_config.geqo_selection_bias = nan
+sdb_config.geqo_threshold = nan
+sdb_config.gin_fuzzy_search_limit = nan
+sdb_config.gin_pending_list_limit = nan
+sdb_config.global_cache_size = nan
+_________________________ sdb_config.hashed_op_allow_duplicates_on_disk
+sdb_config.hashed_op_entry_limit = --
+sdb_config.hashed_op_max_temp_files = --
+sdb_config.hashed_op_min_num_buckets = --
+sdb_config.hashed_op_num_buckets = --
+sdb_config.hashed_op_total_mem_limit_pct = --
+sdb_config.hashed_op_work_mem_limit_pct = --
+sdb_config.hashed_subplan_entry_limit = nan
+sdb_config.hashed_subplan_max_temp_files = nan
+sdb_config.hashed_subplan_min_num_buckets = nan
+sdb_config.hashed_subplan_num_buckets = nan
+sdb_config.hashed_subplan_total_mem_limit_pct = nan
+sdb_config.hashed_subplan_work_mem_limit_pct = nan
+sdb_config.idle_in_transaction_session_timeout = nan
+sdb_config.join_collapse_limit = nan
+sdb_config.local_preload_libraries = --
+sdb_config.location_cache_size = 3.69015164881e-11
+sdb_config.lock_timeout = nan
+sdb_config.log_autovacuum_min_duration = nan
+sdb_config.log_file_mode = nan
+sdb_config.log_line_prefix = --
+sdb_config.log_min_duration_statement = nan
+sdb_config.log_rotation_age = nan
+sdb_config.log_rotation_size = nan
+sdb_config.log_temp_files = nan
+sdb_config.log_window_capacity = nan
+sdb_config.log_window_prealloc = nan
+sdb_config.log_window_prealloc_check_interval = nan
+sdb_config.lsm_cpu_probe_cost = 8.49359678153e-37
+sdb_config.lsm_max_aios_per_data_extent_write = nan
+sdb_config.lsm_probe_cost = nan
+sdb_config.lsm_rescan_startup_cost = nan
+sdb_config.lsm_sample_block_sampling_threshold = nan
+sdb_config.lsm_scan_cost = nan
+sdb_config.lsm_scan_start_cost = nan
+sdb_config.lsmxlog_global_log_buffer_size = nan
+sdb_config.lsmxlog_group_commit_interval = nan
+sdb_config.lsmxlog_group_commit_size = nan
+sdb_config.lwlock_wait_log_threshold = nan
+sdb_config.maintenance_work_mem = nan
+sdb_config.max_connections = nan
+sdb_config.max_data_extents = nan
+sdb_config.max_files_per_process = nan
+sdb_config.max_function_args = nan
+sdb_config.max_function_args_fix = nan
+sdb_config.max_identifier_length = nan
+sdb_config.max_index_keys = nan
+sdb_config.max_locks_per_transaction = nan
+sdb_config.max_parallel_workers_per_gather = nan
+sdb_config.max_pred_locks_per_transaction = nan
+sdb_config.max_prepared_transactions = nan
+sdb_config.max_replication_slots = nan
+sdb_config.max_stack_depth = nan
+sdb_config.max_standby_archive_delay = nan
+sdb_config.max_standby_streaming_delay = nan
+sdb_config.max_tracked_statements = nan
+sdb_config.max_wal_senders = nan
+sdb_config.max_wal_size = nan
+sdb_config.max_worker_processes = 3.69015164881e-11
+sdb_config.memstore_alloc_check_interval = nan
+sdb_config.memstore_alloc_timeout = nan
+sdb_config.memstore_buffer_size = nan
+sdb_config.memstore_defrag_reserve = nan
+sdb_config.memstore_flush_max_wait = --
+sdb_config.memstore_flush_max_wait_pending_groupcommit = nan
+sdb_config.memstore_key_buckets = nan
+sdb_config.memstore_lock_preemption_limit = nan
+sdb_config.memstore_max_txn_size = nan
+sdb_config.memstore_num_allocators = nan
+sdb_config.memstore_num_purger_workers = nan
+sdb_config.memstore_scrub_batch_size = nan
+sdb_config.memstore_scrub_delay = nan
+sdb_config.memstore_scrub_high_water = nan
+sdb_config.memstore_scrub_low_water = nan
+sdb_config.memstore_throttle_log_frequency = nan
+sdb_config.memstore_throttle_max = nan
+sdb_config.memstore_throttle_scale = nan
+sdb_config.memstore_throttle_threshold = nan
+sdb_config.min_parallel_relation_size = nan
+sdb_config.min_wal_size = nan
+sdb_config.no_replan = nan
+sdb_config.num_prefetchers = nan
+sdb_config.num_retained_catalogs = nan
+sdb_config.old_snapshot_threshold = nan
+sdb_config.optimizer_trace_id = nan
+sdb_config.optimizer_trace_max_join_level = nan
+sdb_config.optimizer_trace_min_join_level = nan
+sdb_config.optimizer_trace_statement_id = --
+sdb_config.parallel_setup_cost = nan
+sdb_config.parallel_tuple_cost = 4.1026542207e-10
+sdb_config.param_plan_discount = nan
+sdb_config.plan_cache_entries = nan
+sdb_config.plan_cache_size = nan
+sdb_config.plan_source_cache_size = nan
+sdb_config.pmc_max_size = nan
+sdb_config.port = nan
+sdb_config.post_auth_delay = nan
+sdb_config.pre_auth_delay = nan
+sdb_config.prefetch_queue_size = nan
+sdb_config.prefetch_size = nan
+sdb_config.prefetch_threshold = nan
+sdb_config.prefetch_window_size = nan
+sdb_config.random_page_cost = nan
+sdb_config.redo_applier_count = 3.69015164881e-11
+sdb_config.replacement_sort_tuples = nan
+sdb_config.s_lock_max_delay = nan
+sdb_config.scan_stale_ei_restart_duration_ms = nan
+sdb_config.sdb_server_version_num = 3.69015166206e-11
+sdb_config.segment_size = nan
+sdb_config.seq_page_cost = nan
+sdb_config.server_version_num = nan
+sdb_config.sfstore_socket_timeout_secs = nan
+sdb_config.shared_buffers = nan
+sdb_config.ssl_crl_file = --
+sdb_config.statement_max_restart = nan
+sdb_config.statement_timeout = nan
+sdb_config.superuser_reserved_connections = nan
+sdb_config.synchronous_standby_names = --
+sdb_config.system_fanout = nan
+sdb_config.system_num_levels = nan
+sdb_config.tcp_keepalives_count = nan
+sdb_config.tcp_keepalives_idle = nan
+sdb_config.tcp_keepalives_interval = nan
+sdb_config.temp_buffers = nan
+sdb_config.temp_file_limit = nan
+sdb_config.temp_tablespaces = --
+sdb_config.track_activity_query_size = nan
+sdb_config.unix_socket_group = --
+sdb_config.unix_socket_permissions = nan
+_________________________ sdb_config.use_disk_backed_hashed_op
+sdb_config.vacuum_cost_delay = nan
+sdb_config.vacuum_cost_limit = nan
+sdb_config.vacuum_cost_page_dirty = nan
+sdb_config.vacuum_cost_page_hit = nan
+sdb_config.vacuum_cost_page_miss = nan
+sdb_config.vacuum_defer_cleanup_age = nan
+sdb_config.vacuum_freeze_min_age = nan
+sdb_config.vacuum_freeze_table_age = nan
+sdb_config.vacuum_multixact_freeze_min_age = nan
+sdb_config.vacuum_multixact_freeze_table_age = nan
+sdb_config.wal_block_size = nan
+sdb_config.wal_buffers = nan
+sdb_config.wal_keep_segments = nan
+sdb_config.wal_receiver_status_interval = nan
+sdb_config.wal_receiver_timeout = nan
+sdb_config.wal_retrieve_retry_interval = nan
+sdb_config.wal_segment_size = nan
+sdb_config.wal_sender_timeout = nan
+sdb_config.wal_writer_delay = nan
+sdb_config.wal_writer_flush_after = nan
+sdb_config.work_mem = nan
+sdb_config.minuteSinceMidnight = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_db_bufmgr_stats.tsv_t.tsv = (272, 15)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_db_bufmgr_stats.tsv_t.tsv = (193, 15)
+('WL1: ', 10)
+('WL2: ', 10)
+Unnamed: 0 = 1.25864000416e-08
+sdb_db_bufmgr_stats.minuteSinceMidnight = 0.0
+sdb_db_bufmgr_stats.D_timestamp = nan
+sdb_db_bufmgr_stats.D_unpincount/sec = nan
+sdb_db_bufmgr_stats.D_unborrowcount/sec = nan
+sdb_db_bufmgr_stats.D_misscount/sec = nan
+sdb_db_bufmgr_stats.D_fetchcount/sec = nan
+sdb_db_bufmgr_stats.D_pincount/sec = nan
+sdb_db_bufmgr_stats.D_borrowcount/sec = nan
+sdb_db_bufmgr_stats.D_hitcount/sec = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_db_end2end_time_stats.tsv_t.tsv = (272, 86)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_db_end2end_time_stats.tsv_t.tsv = (196, 86)
+('WL1: ', 81)
+('WL2: ', 81)
+Unnamed: 0 = 5.64435624998e-09
+sdb_db_end2end_time_stats.minuteSinceMidnight = 0.0
+sdb_db_end2end_time_stats.D_timestamp = nan
+sdb_db_end2end_time_stats.TotalE2ETime = 0.128604709079
+sdb_db_end2end_time_stats.%_D_bind_message/sec = nan
+sdb_db_end2end_time_stats.%_D_close_message/sec = nan
+sdb_db_end2end_time_stats.%_D_cluuid_read/sec = nan
+sdb_db_end2end_time_stats.%_D_cluuid_write/sec = nan
+sdb_db_end2end_time_stats.%_D_describe_message/sec = nan
+sdb_db_end2end_time_stats.%_D_execute_message/sec = nan
+sdb_db_end2end_time_stats.%_D_executor_end/sec = nan
+sdb_db_end2end_time_stats.%_D_executor_finish/sec = nan
+sdb_db_end2end_time_stats.%_D_executor_rewind/sec = nan
+sdb_db_end2end_time_stats.%_D_executor_run/sec = nan
+sdb_db_end2end_time_stats.%_D_executor_start/sec = nan
+sdb_db_end2end_time_stats.%_D_lsm/sec = nan
+sdb_db_end2end_time_stats.%_D_lsm_fetch/sec = nan
+sdb_db_end2end_time_stats.%_D_lsm_insert/sec = nan
+sdb_db_end2end_time_stats.%_D_lsm_insert_dup_check_primary/sec = nan
+sdb_db_end2end_time_stats.%_D_lsm_insert_dup_check_secondary/sec = nan
+sdb_db_end2end_time_stats.%_D_lsm_insert_snapshot_check/sec = nan
+sdb_db_end2end_time_stats.%_D_lsm_scan/sec = nan
+sdb_db_end2end_time_stats.%_D_main/sec = nan
+sdb_db_end2end_time_stats.%_D_memstore_fetch/sec = nan
+sdb_db_end2end_time_stats.%_D_memstore_insert/sec = nan
+sdb_db_end2end_time_stats.%_D_memstore_lock/sec = nan
+sdb_db_end2end_time_stats.%_D_memstore_scan/sec = nan
+sdb_db_end2end_time_stats.%_D_parse/sec = nan
+sdb_db_end2end_time_stats.%_D_parse_message/sec = nan
+sdb_db_end2end_time_stats.%_D_plan/sec = nan
+sdb_db_end2end_time_stats.%_D_process_msg/sec = nan
+sdb_db_end2end_time_stats.%_D_qanalyze/sec = nan
+sdb_db_end2end_time_stats.%_D_recv/sec = nan
+sdb_db_end2end_time_stats.%_D_recv_command_wait/sec = nan
+sdb_db_end2end_time_stats.%_D_rewrite/sec = nan
+sdb_db_end2end_time_stats.%_D_send/sec = nan
+sdb_db_end2end_time_stats.%_D_seq_nextval/sec = nan
+sdb_db_end2end_time_stats.%_D_simple_query/sec = nan
+sdb_db_end2end_time_stats.%_D_spi_close/sec = nan
+sdb_db_end2end_time_stats.%_D_spi_execute/sec = nan
+sdb_db_end2end_time_stats.%_D_spi_fetch/sec = nan
+sdb_db_end2end_time_stats.%_D_spi_misc/sec = nan
+sdb_db_end2end_time_stats.%_D_spi_open/sec = nan
+sdb_db_end2end_time_stats.%_D_spi_prepare/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_body/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_compile/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_eval_expr/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_eval_expr_complex/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_eval_expr_simple/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_eval_expr_simple_init/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_eval_expr_simple_run/sec = nan
+sdb_db_end2end_time_stats.%_D_spl_overhead/sec = nan
+sdb_db_end2end_time_stats.%_D_store_cat_async_status/sec = nan
+sdb_db_end2end_time_stats.%_D_store_cat_async_submit/sec = nan
+sdb_db_end2end_time_stats.%_D_store_cat_sync_write/sec = nan
+sdb_db_end2end_time_stats.%_D_store_data_async_status/sec = nan
+sdb_db_end2end_time_stats.%_D_store_data_async_submit/sec = nan
+sdb_db_end2end_time_stats.%_D_store_data_sync_write/sec = nan
+sdb_db_end2end_time_stats.%_D_store_ext_close/sec = nan
+sdb_db_end2end_time_stats.%_D_store_ext_create/sec = nan
+sdb_db_end2end_time_stats.%_D_store_ext_delete/sec = nan
+sdb_db_end2end_time_stats.%_D_store_ext_list/sec = nan
+sdb_db_end2end_time_stats.%_D_store_ext_open/sec = nan
+sdb_db_end2end_time_stats.%_D_store_ext_seek/sec = nan
+sdb_db_end2end_time_stats.%_D_store_ext_stat/sec = nan
+sdb_db_end2end_time_stats.%_D_store_log_async_status/sec = nan
+sdb_db_end2end_time_stats.%_D_store_log_async_submit/sec = nan
+sdb_db_end2end_time_stats.%_D_store_log_sync_write/sec = nan
+sdb_db_end2end_time_stats.%_D_store_rand_read/sec = nan
+sdb_db_end2end_time_stats.%_D_store_seq_read/sec = nan
+sdb_db_end2end_time_stats.%_D_temp_file_read/sec = nan
+sdb_db_end2end_time_stats.%_D_temp_file_write/sec = nan
+sdb_db_end2end_time_stats.%_D_wait_BufReadIO_lock/sec = nan
+sdb_db_end2end_time_stats.%_D_wait_aeam_lock/sec = nan
+sdb_db_end2end_time_stats.%_D_wait_eirq_lock/sec = nan
+sdb_db_end2end_time_stats.%_D_wait_memstore_throttle/sec = nan
+sdb_db_end2end_time_stats.%_D_wait_misc/sec = nan
+sdb_db_end2end_time_stats.%_D_wait_mxp_lock/sec = nan
+sdb_db_end2end_time_stats.%_D_wait_sql_lock/sec = nan
+sdb_db_end2end_time_stats.%_D_xlog_cpu_time/sec = nan
+sdb_db_end2end_time_stats.%_D_xlog_group_commit_wait/sec = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_db_event_timers.tsv_t.tsv = (272, 250)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_db_event_timers.tsv_t.tsv = (193, 250)
+('WL1: ', 245)
+('WL2: ', 245)
+Unnamed: 0 = 1.25864000416e-08
+sdb_db_event_timers.minuteSinceMidnight = 0.0
+sdb_db_event_timers.D_timestamp = nan
+sdb_db_event_timers.D_time [event=executor[temp_file_write]]/sec = 0.000234786599459
+sdb_db_event_timers.D_time [event=postgres[wait_SinvalWrite_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[describe_message]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[locationcache_invalidate_era]]/sec = 8.40205251225e-32
+sdb_db_event_timers.D_count [event=executor[executor_finish]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_data_async_submit]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_cachedplan]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[lsm_insert]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[executor_finish]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[lsm]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[bind_message]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_ext_stat]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[funccache_delete]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[temp_file_read]]/sec = 0.000238417133126
+sdb_db_event_timers.D_count [event=executor[wait_misc]]/sec = nan
+sdb_db_event_timers.D_time [event=compiler[qAnalyze]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[simple_query]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_cat_sync_write]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[execute_message]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[funccache_invalidate]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[executor_end_serviceability]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[wait_PlanCacheLRU_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=memstore[memstore_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[lsm_fetch]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_data_async_status]]/sec = nan
+sdb_db_event_timers.D_count [event=ostream[ostream_open_extent]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_ext_seek]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_ext_list]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[parse_message]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[wait_prefetchQ_lock]]/sec = 0.0403887274119
+sdb_db_event_timers.D_time [event=plpgsql[spl_eval_expr_trivial]]/sec = nan
+sdb_db_event_timers.D_time [event=postgres[wait_SinvalRead_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_revalidate]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[funccache_invalidate]]/sec = nan
+sdb_db_event_timers.D_count [event=compiler[rewrite]]/sec = nan
+sdb_db_event_timers.D_count [event=zookeeper[cluuid_write]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[wait_EIRQ_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[SPI_close]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_ext_create]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[SPI_execute]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[lsm_scan]]/sec = nan
+sdb_db_event_timers.D_time [event=compiler[plan]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_data_sync_write]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[executor_end]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[extentmerge_scan]]/sec = --
+sdb_db_event_timers.D_time [event=store[store_ext_stat]]/sec = 0.488161377069
+sdb_db_event_timers.D_time [event=executor[plancache_func_callback]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_ext_delete]]/sec = nan
+sdb_db_event_timers.D_count [event=memstore[memstore_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=memstore[memstore_scan]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[extentmerge_txn_commit]]/sec = --
+sdb_db_event_timers.D_count [event=plpgsql[funccache_insert]]/sec = nan
+sdb_db_event_timers.D_time [event=zookeeper[cluuid_read]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[locationcache_inval_era_single]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[locationcache_invalidate_key]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[temp_file_read]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_getcached]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_build]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[seq_nextval]]/sec = 0.40793126912
+sdb_db_event_timers.D_count [event=executor[wait_PlanCacheHash_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_revalidate]]/sec = nan
+sdb_db_event_timers.D_time [event=postgres[wait_ProcArray_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_eval_expr_simple_init]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[lsm_insert]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_rel_callback]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[wait_PlanCacheLRU_lock]]/sec = 0.0718496060963
+sdb_db_event_timers.D_count [event=memstore[memstore_fetch]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[wait_sql_lock]]/sec = 0.535023356957
+sdb_db_event_timers.D_count [event=executor[executor_rewind]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[locationcache_invalidate_era]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[locationcache_inval_era_bulk]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_body]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_func_callback]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_log_sync_write]]/sec = 0.637993998177
+sdb_db_event_timers.D_count [event=plpgsql[spl_overhead]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_getspace]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[wait_sql_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[main]]/sec = nan
+sdb_db_event_timers.D_time [event=zookeeper[zoo_aset_sync]]/sec = nan
+sdb_db_event_timers.D_time [event=xlog[xlog_cpu_time]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[executor_end]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_eval_expr_simple]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_log_async_submit]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[wait_prefetchQ_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=memstore[memstore_insert]]/sec = nan
+sdb_db_event_timers.D_time [event=memstore[wait_MXP_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=zookeeper[cluuid_read]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[recv]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_cat_async_submit]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_log_async_status]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[recv_command_wait]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_rand_read]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_seq_read]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_data_async_submit]]/sec = nan
+sdb_db_event_timers.D_time [event=xlog[xlog_group_commit_wait]]/sec = nan
+sdb_db_event_timers.D_count [event=compiler[qAnalyze]]/sec = nan
+sdb_db_event_timers.D_count [event=lock[wait_LockTable_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[send]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[executor_rewind]]/sec = nan
+sdb_db_event_timers.D_count [event=xlog[xlog_group_commit_wait]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[SPI_misc]]/sec = nan
+sdb_db_event_timers.D_count [event=postgres[wait_ProcArray_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=memstore[wait_MXP_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[spl_eval_expr_simple]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_rel_callback]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[spl_eval_expr]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[spl_compile]]/sec = nan
+sdb_db_event_timers.D_time [event=ostream[ostream_persist_dset]]/sec = nan
+sdb_db_event_timers.D_time [event=compiler[parse]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[SPI_prepare]]/sec = 3.91510730506e-05
+sdb_db_event_timers.D_count [event=store[store_log_async_status]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[lsm_fetch]]/sec = nan
+sdb_db_event_timers.D_time [event=lock[wait_LockTable_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[SPI_fetch]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_compile]]/sec = nan
+sdb_db_event_timers.D_count [event=memstore[wait_memstore_throttle]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_getplan]]/sec = nan
+sdb_db_event_timers.D_count [event=postgres[wait_Backend_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_ext_list]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[SPI_fetch]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_ext_open]]/sec = nan
+sdb_db_event_timers.D_count [event=xlog[xlog_cpu_time]]/sec = nan
+sdb_db_event_timers.D_time [event=memstore[memstore_scan]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[send]]/sec = nan
+sdb_db_event_timers.D_time [event=zookeeper[cluuid_write]]/sec = nan
+sdb_db_event_timers.D_time [event=postgres[wait_Backend_lock]]/sec = 0.93066427473
+sdb_db_event_timers.D_time [event=lsm[lsm_insert_dup_check_primary]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm_ew[lsm_ew_add_records]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[wait_BufReadIO_lock]]/sec = 0.0195186463551
+sdb_db_event_timers.D_time [event=store[store_cat_sync_write]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[extentmerge_scan]]/sec = --
+sdb_db_event_timers.D_time [event=tcop[recv]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[SPI_misc]]/sec = 0.238762110043
+sdb_db_event_timers.D_time [event=plpgsql[spl_body]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[funccache_delete]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[extentmerge_txn_commit]]/sec = --
+sdb_db_event_timers.D_time [event=executor[wait_PlanCacheHash_lock]]/sec = 0.883439219181
+sdb_db_event_timers.D_time [event=store[store_seq_read]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_eval_expr_trivial]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[execute_message]]/sec = nan
+sdb_db_event_timers.D_count [event=ostream[ostream_close_extent]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_cat_async_submit]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[spl_overhead]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[parse_message]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_eval_expr_simple_run]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[executor_start]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[locationcache_inval_from_bitmap]]/sec = 0.880543975066
+sdb_db_event_timers.D_time [event=store[store_ext_close]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_data_async_status]]/sec = nan
+sdb_db_event_timers.D_count [event=compiler[parse]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_onetimeplan]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[main]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_build]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[lsm_insert_dup_check_primary]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_cat_async_status]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_onetimeplan]]/sec = nan
+sdb_db_event_timers.D_count [event=postgres[wait_SinvalWrite_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_getcached]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[seq_nextval]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[SPI_open]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[plancache_reset]]/sec = nan
+sdb_db_event_timers.D_time [event=ostream[ostream_open_extent]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[lsm_insert_dup_check_secondary]]/sec = 0.522717625099
+sdb_db_event_timers.D_time [event=lsm[locationcache_inval_era_bulk]]/sec = 0.000558560453751
+sdb_db_event_timers.D_time [event=executor[plancache_getplan]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_getspace]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_rand_read]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_data_sync_write]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[lsm]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[lsm_scan]]/sec = nan
+sdb_db_event_timers.D_count [event=postgres[wait_SinvalRead_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[temp_file_write]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_log_async_submit]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[simple_query]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_reset]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[wait_misc]]/sec = 0.803465472764
+sdb_db_event_timers.D_count [event=lsm[bufmgr_getfreebuf]]/sec = nan
+sdb_db_event_timers.D_time [event=ostream[ostream_add_record]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[recv_command_wait]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[SPI_execute]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[executor_end_serviceability]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_cat_async_status]]/sec = nan
+sdb_db_event_timers.D_time [event=zookeeper[zkHandleInit]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[SPI_open]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[funccache_lookup]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[plancache_cachedplan]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[funccache_insert]]/sec = nan
+sdb_db_event_timers.D_count [event=zookeeper[zkHandleClose]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[locationcache_inval_from_bitmap]]/sec = nan
+sdb_db_event_timers.D_time [event=zookeeper[zkHandleClose]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[close_message]]/sec = 0.0854916078994
+sdb_db_event_timers.D_time [event=executor[executor_run]]/sec = nan
+sdb_db_event_timers.D_count [event=zookeeper[zkHandleInit]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[bind_message]]/sec = nan
+sdb_db_event_timers.D_time [event=memstore[memstore_fetch]]/sec = nan
+sdb_db_event_timers.D_time [event=tcop[process_msg]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[locationcache_invalidate_full]]/sec = 0.862387126248
+sdb_db_event_timers.D_time [event=catsrv[wait_catsrv_lock]]/sec = 0.0402531512088
+sdb_db_event_timers.D_time [event=lsm[lsm_insert_snapshot_check]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[locationcache_invalidate_full]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[locationcache_invalidate_key]]/sec = 0.577929121834
+sdb_db_event_timers.D_count [event=lsm[lsm_insert_snapshot_check]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_eval_expr]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[spl_eval_expr_simple_run]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[wait_BufReadIO_lock]]/sec = nan
+sdb_db_event_timers.D_time [event=compiler[rewrite]]/sec = nan
+sdb_db_event_timers.D_count [event=executor[executor_run]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[wait_AEAM_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=compiler[plan]]/sec = nan
+sdb_db_event_timers.D_time [event=ostream[ostream_close_extent]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[close_message]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm_ew[lsm_ew_add_records]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_log_sync_write]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_ext_create]]/sec = nan
+sdb_db_event_timers.D_count [event=catsrv[wait_catsrv_lock]]/sec = nan
+sdb_db_event_timers.D_count [event=ostream[ostream_add_record]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[bufmgr_getfreebuf]]/sec = nan
+sdb_db_event_timers.D_count [event=plpgsql[spl_eval_expr_complex]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm[lsm_insert_dup_check_secondary]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm_ew[lsm_ew_add_to_extent]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[wait_EIRQ_lock]]/sec = 0.751726908782
+sdb_db_event_timers.D_time [event=lsm[locationcache_inval_era_single]]/sec = 9.52178509824e-31
+sdb_db_event_timers.D_count [event=store[store_ext_seek]]/sec = nan
+sdb_db_event_timers.D_count [event=store[store_ext_close]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[wait_AEAM_lock]]/sec = 0.142529277032
+sdb_db_event_timers.D_count [event=executor[SPI_prepare]]/sec = nan
+sdb_db_event_timers.D_time [event=memstore[memstore_insert]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_ext_open]]/sec = nan
+sdb_db_event_timers.D_time [event=memstore[wait_memstore_throttle]]/sec = 0.203583572358
+sdb_db_event_timers.D_time [event=tcop[describe_message]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[executor_start]]/sec = nan
+sdb_db_event_timers.D_time [event=store[store_ext_delete]]/sec = nan
+sdb_db_event_timers.D_count [event=lsm_ew[lsm_ew_add_to_extent]]/sec = nan
+sdb_db_event_timers.D_count [event=zookeeper[zoo_aset_sync]]/sec = nan
+sdb_db_event_timers.D_count [event=ostream[ostream_persist_dset]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[spl_eval_expr_complex]]/sec = nan
+sdb_db_event_timers.D_time [event=executor[SPI_close]]/sec = nan
+sdb_db_event_timers.D_time [event=plpgsql[spl_eval_expr_simple_init]]/sec = nan
+sdb_db_event_timers.D_count [event=tcop[process_msg]]/sec = nan
+sdb_db_event_timers.D_time [event=lsm[extentmerge_translation_setup]]/sec = --
+sdb_db_event_timers.D_count [event=lsm[extentmerge_translation_setup]]/sec = --
+sdb_db_event_timers.D_count [event=plpgsql[funccache_lookup]]/sec = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_db_keystone_store_stats.tsv_t.tsv = (272, 82)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_db_keystone_store_stats.tsv_t.tsv = (193, 82)
+('WL1: ', 77)
+('WL2: ', 77)
+Unnamed: 0 = 1.25864000416e-08
+sdb_db_keystone_store_stats.minuteSinceMidnight = 0.0
+sdb_db_keystone_store_stats.D_timestamp = nan
+sdb_db_keystone_store_stats.D_dataWriteLessThan10ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitGreaterThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_logSyncWriteCount/sec = nan
+sdb_db_keystone_store_stats.D_dataSyncWriteCount/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitLessThan100us/sec = nan
+sdb_db_keystone_store_stats.D_logWriteLessThan40ms/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteGreaterThan1s/sec = nan
+sdb_db_keystone_store_stats.D_randomReadLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadCount/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadLessThan1s/sec = nan
+sdb_db_keystone_store_stats.D_randomReadLessThan10ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitCount/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteTime/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitGreaterThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_dataSyncWriteBytes/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitLessThan500us/sec = nan
+sdb_db_keystone_store_stats.D_randomReadLessThan5ms/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteLessThan10ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteLessThan20ms/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteLessThan40ms/sec = nan
+sdb_db_keystone_store_stats.D_randomReadCount/sec = nan
+sdb_db_keystone_store_stats.D_randomReadLessThan1s/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadBytes/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteLessThan1s/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteLessThan5ms/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadLessThan40ms/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_logSyncWriteTime/sec = nan
+sdb_db_keystone_store_stats.D_logWriteLessThan5ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitTime/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteLessThan1s/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitTime/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteLessThan20ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitLessThan500us/sec = nan
+sdb_db_keystone_store_stats.D_logWriteLessThan1s/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteLessThan5ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitLessThan10us/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadLessThan10ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteLessThan40ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitCount/sec = nan
+sdb_db_keystone_store_stats.D_randomReadTime/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitBytes/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadLessThan20ms/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteLessThan40ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteLessThan10ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteGreaterThan1s/sec = nan
+sdb_db_keystone_store_stats.D_dataSyncWriteTime/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitLessThan1ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitLessThan100us/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteLessThan1s/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadGreaterThan1s/sec = nan
+sdb_db_keystone_store_stats.D_logWriteLessThan20ms/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteTime/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadLessThan5ms/sec = nan
+sdb_db_keystone_store_stats.D_logSyncWriteBytes/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteGreaterThan1s/sec = nan
+sdb_db_keystone_store_stats.D_dataAsyncWriteLessThan10ms/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitLessThan10us/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteGreaterThan1s/sec = nan
+sdb_db_keystone_store_stats.D_logAsyncWriteLessThan20ms/sec = nan
+sdb_db_keystone_store_stats.D_logWriteSubmitLessThan1ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteLessThan5ms/sec = nan
+sdb_db_keystone_store_stats.D_randomReadBytes/sec = nan
+sdb_db_keystone_store_stats.D_randomReadGreaterThan1s/sec = nan
+sdb_db_keystone_store_stats.D_sequentialReadTime/sec = nan
+sdb_db_keystone_store_stats.D_randomReadLessThan40ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteLessThan2ms/sec = nan
+sdb_db_keystone_store_stats.D_dataWriteSubmitBytes/sec = nan
+sdb_db_keystone_store_stats.D_randomReadLessThan20ms/sec = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_db_spinlock_metrics.tsv_t.tsv = (272, 147)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_db_spinlock_metrics.tsv_t.tsv = (193, 147)
+('WL1: ', 142)
+('WL2: ', 142)
+Unnamed: 0 = 1.25864000416e-08
+avgsleeps[lock=GlobalLogBuffer] = 0.169687385941
+avgsleeps[lock=GroupCommit] = 0.0147352873799
+avgsleeps[lock=IpcArrayLock] = --
+avgsleeps[lock=LWLocks] = 4.61094735997e-07
+avgsleeps[lock=LockTable] = 0.39747090687
+avgsleeps[lock=MemstoreGuard] = nan
+avgsleeps[lock=MemstoreXcnPurger] = 2.55757031557e-07
+avgsleeps[lock=Monitor] = nan
+avgsleeps[lock=PlanCacheSharedLock] = 9.44174828913e-05
+avgsleeps[lock=PlanCacheSrcLock] = 2.29528732357e-05
+avgsleeps[lock=PlanLock] = 2.21563095295e-05
+avgsleeps[lock=ProcStruct] = nan
+avgsleeps[lock=ProclockTable] = 0.699514666718
+avgsleeps[lock=Serviceability] = 2.61854919409e-05
+avgsleeps[lock=ShmemAlloc] = 0.0810630949975
+avgsleeps[lock=TxnHeaderRecord] = nan
+avgsleeps[lock=XLogDaemonWorkQueue] = 0.00126372255505
+avgsleeps[lock=currentXcnLatch] = nan
+avgsleeps[lock=memstoreRingBfr] = nan
+avgsleeps[lock=shmBlockAlloc] = 0.190250332039
+sleeps[lock=GlobalLogBuffer] = 3.20758714075e-05
+sleeps[lock=GroupCommit] = 0.00052812945261
+sleeps[lock=IpcArrayLock] = --
+sleeps[lock=LWLocks] = 0.625704370911
+sleeps[lock=LockTable] = 0.842210484095
+sleeps[lock=MemstoreGuard] = nan
+sleeps[lock=MemstoreXcnPurger] = 0.000916554483394
+sleeps[lock=Monitor] = nan
+sleeps[lock=PlanCacheSharedLock] = 0.146450843104
+sleeps[lock=PlanCacheSrcLock] = 0.16881348342
+sleeps[lock=PlanLock] = 3.48208529851e-08
+sleeps[lock=ProcStruct] = nan
+sleeps[lock=ProclockTable] = 0.457740897032
+sleeps[lock=Serviceability] = 0.680778818181
+sleeps[lock=ShmemAlloc] = 0.000876067509584
+sleeps[lock=TxnHeaderRecord] = nan
+sleeps[lock=XLogDaemonWorkQueue] = 0.0257925566101
+sleeps[lock=currentXcnLatch] = nan
+sleeps[lock=memstoreRingBfr] = nan
+sleeps[lock=shmBlockAlloc] = 0.00122369810792
+sleeptime[lock=GlobalLogBuffer] = 4.72282108368e-05
+sleeptime[lock=GroupCommit] = 0.000515170951391
+sleeptime[lock=IpcArrayLock] = --
+sleeptime[lock=LWLocks] = 0.625137650793
+sleeptime[lock=LockTable] = 0.967373909665
+sleeptime[lock=MemstoreGuard] = nan
+sleeptime[lock=MemstoreXcnPurger] = 0.000916554483394
+sleeptime[lock=Monitor] = nan
+sleeptime[lock=PlanCacheSharedLock] = 0.146450843104
+sleeptime[lock=PlanCacheSrcLock] = 0.169450674478
+sleeptime[lock=PlanLock] = 3.04648523987e-08
+sleeptime[lock=ProcStruct] = nan
+sleeptime[lock=ProclockTable] = 0.448153544026
+sleeptime[lock=Serviceability] = 0.745739759986
+sleeptime[lock=ShmemAlloc] = 0.000766322052985
+sleeptime[lock=TxnHeaderRecord] = nan
+sleeptime[lock=XLogDaemonWorkQueue] = 0.0183869981161
+sleeptime[lock=currentXcnLatch] = nan
+sleeptime[lock=memstoreRingBfr] = nan
+sleeptime[lock=shmBlockAlloc] = 0.00118926473428
+avgsleeptime[lock=GlobalLogBuffer] = 3.09857793119e-07
+avgsleeptime[lock=GroupCommit] = 0.0609026599268
+avgsleeptime[lock=IpcArrayLock] = --
+avgsleeptime[lock=LWLocks] = 0.373527311913
+avgsleeptime[lock=LockTable] = 0.104909156473
+avgsleeptime[lock=MemstoreGuard] = nan
+avgsleeptime[lock=MemstoreXcnPurger] = nan
+avgsleeptime[lock=Monitor] = nan
+avgsleeptime[lock=PlanCacheSharedLock] = 0.101795077535
+avgsleeptime[lock=PlanCacheSrcLock] = 0.0804989637175
+avgsleeptime[lock=PlanLock] = 0.0280087315077
+avgsleeptime[lock=ProcStruct] = nan
+avgsleeptime[lock=ProclockTable] = 0.999000565048
+avgsleeptime[lock=Serviceability] = 0.258135441327
+avgsleeptime[lock=ShmemAlloc] = 7.34012758223e-07
+avgsleeptime[lock=TxnHeaderRecord] = nan
+avgsleeptime[lock=XLogDaemonWorkQueue] = 2.88046299747e-09
+avgsleeptime[lock=currentXcnLatch] = nan
+avgsleeptime[lock=memstoreRingBfr] = nan
+avgsleeptime[lock=shmBlockAlloc] = 4.04300199833e-21
+avgspins[lock=GlobalLogBuffer] = 1.87530075794e-05
+avgspins[lock=GroupCommit] = 2.39136046805e-10
+avgspins[lock=IpcArrayLock] = 0.904645713385
+avgspins[lock=LWLocks] = 0.0192159767577
+avgspins[lock=LockTable] = 0.0708401516924
+avgspins[lock=MemstoreGuard] = nan
+avgspins[lock=MemstoreXcnPurger] = 9.17611996574e-10
+avgspins[lock=Monitor] = nan
+avgspins[lock=PlanCacheSharedLock] = 0.0191078988595
+avgspins[lock=PlanCacheSrcLock] = 0.043716718979
+avgspins[lock=PlanLock] = 4.7122193536e-09
+avgspins[lock=ProcStruct] = nan
+avgspins[lock=ProclockTable] = 0.7046417185
+avgspins[lock=Serviceability] = 0.0555782488816
+avgspins[lock=ShmemAlloc] = 0.0399043616125
+avgspins[lock=TxnHeaderRecord] = nan
+avgspins[lock=XLogDaemonWorkQueue] = 2.84753892251e-05
+avgspins[lock=currentXcnLatch] = nan
+avgspins[lock=memstoreRingBfr] = nan
+avgspins[lock=shmBlockAlloc] = 0.000268481334064
+spins[lock=GlobalLogBuffer] = 1.60248535341e-05
+spins[lock=GroupCommit] = 4.76112831338e-05
+spins[lock=IpcArrayLock] = 0.904645713385
+spins[lock=LWLocks] = 0.511187246858
+spins[lock=LockTable] = 0.631266197298
+spins[lock=MemstoreGuard] = nan
+spins[lock=MemstoreXcnPurger] = 0.000164879939864
+spins[lock=Monitor] = nan
+spins[lock=PlanCacheSharedLock] = 0.647960035596
+spins[lock=PlanCacheSrcLock] = 0.12113162684
+spins[lock=PlanLock] = 1.02180250488e-08
+spins[lock=ProcStruct] = nan
+spins[lock=ProclockTable] = 0.370945892355
+spins[lock=Serviceability] = 0.414109345146
+spins[lock=ShmemAlloc] = 0.000490529974077
+spins[lock=TxnHeaderRecord] = nan
+spins[lock=XLogDaemonWorkQueue] = 0.00109833960403
+spins[lock=currentXcnLatch] = nan
+spins[lock=memstoreRingBfr] = nan
+spins[lock=shmBlockAlloc] = 0.000262361545024
+acquires[lock=GlobalLogBuffer] = 1.45343057671e-05
+acquires[lock=GroupCommit] = 9.23570389e-06
+acquires[lock=IpcArrayLock] = 0.904645713385
+acquires[lock=LWLocks] = 0.991386483901
+acquires[lock=LockTable] = 0.264375926809
+acquires[lock=MemstoreGuard] = nan
+acquires[lock=MemstoreXcnPurger] = 0.000120831649331
+acquires[lock=Monitor] = nan
+acquires[lock=PlanCacheSharedLock] = 0.438193768018
+acquires[lock=PlanCacheSrcLock] = 0.11529830771
+acquires[lock=PlanLock] = 1.86881745021e-09
+acquires[lock=ProcStruct] = nan
+acquires[lock=ProclockTable] = 0.209326598056
+acquires[lock=Serviceability] = 0.382853524991
+acquires[lock=ShmemAlloc] = 0.000108271156862
+acquires[lock=TxnHeaderRecord] = nan
+acquires[lock=XLogDaemonWorkQueue] = 2.69517812862e-06
+acquires[lock=currentXcnLatch] = nan
+acquires[lock=memstoreRingBfr] = nan
+acquires[lock=shmBlockAlloc] = 4.92641319813e-05
+sdb_db_spinlock_metrics.minuteSinceMidnight = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_extent_merge_stats.tsv_t.tsv = (272, 13)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_extent_merge_stats.tsv_t.tsv = (193, 13)
+('WL1: ', 8)
+('WL2: ', 8)
+Unnamed: 0 = 1.25864000416e-08
+sdb_extent_merge_stats.minuteSinceMidnight = 0.0
+sdb_extent_merge_stats.D_timestamp = nan
+sdb_extent_merge_stats.D_nummanualmerges/sec = nan
+sdb_extent_merge_stats.D_numextentsread/sec = nan
+sdb_extent_merge_stats.D_numpromotions/sec = nan
+sdb_extent_merge_stats.D_numdaemonmerges/sec = nan
+sdb_extent_merge_stats.D_numextentswritten/sec = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_flush_stats.tsv_t.tsv = (272, 18)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_flush_stats.tsv_t.tsv = (193, 18)
+('WL1: ', 13)
+('WL2: ', 13)
+Unnamed: 0 = 1.25864000416e-08
+sdb_flush_stats.minuteSinceMidnight = 0.0
+sdb_flush_stats.D_numrecordsflushed = nan
+sdb_flush_stats.D_timestamp = nan
+sdb_flush_stats.D_numbytesflushed = nan
+sdb_flush_stats.D_numdaemonflushes = nan
+sdb_flush_stats.D_numextentsflushed = nan
+sdb_flush_stats.D_nummanualflushes = nan
+sdb_flush_stats.D_numrecordsflushed/sec = nan
+sdb_flush_stats.D_numbytesflushed/sec = nan
+sdb_flush_stats.D_numdaemonflushes/sec = nan
+sdb_flush_stats.D_numextentsflushed/sec = nan
+sdb_flush_stats.D_nummanualflushes/sec = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_global_info.tsv_t.tsv = (272, 67)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_global_info.tsv_t.tsv = (193, 67)
+('WL1: ', 60)
+('WL2: ', 60)
+Unnamed: 0 = 1.25864000416e-08
+_________________________ sdb_global_info.clock.constant_tsc
+sdb_global_info.clock.tick_clock_ratio = 3.68789585679e-11
+_________________________ sdb_global_info.db_server.backup
+sdb_global_info.db_server.exe_version_int = 3.69015166206e-11
+_________________________ sdb_global_info.db_server.standby
+_________________________ sdb_global_info.hardware.is_vm
+sdb_global_info.monitor.last_per_stmt_stats_reset = --
+sdb_global_info.plancache.concurrent_plan_src_use_HWM = 4.85639301346e-07
+sdb_global_info.plancache.concurrent_plan_use_HWM = 0.357902175366
+sdb_global_info.plancache.num_sh_bld_ctx_create_fail = nan
+sdb_global_info.plancache.num_sh_genericplan_unused = nan
+sdb_global_info.plancache.num_sh_plan_evictions_limit = nan
+sdb_global_info.plancache.num_sh_plan_lru_empty = nan
+sdb_global_info.plancache.num_sh_plan_re_revalidated = nan
+sdb_global_info.plancache.num_sh_psrc_search_pth_mismatch = 0.351214985097
+sdb_global_info.plancache.num_shared_cached_plan_leaks = nan
+sdb_global_info.plancache.num_shared_cached_plan_src_hits = 0.352467029689
+sdb_global_info.plancache.num_shared_gplan_reused = 0.352467029597
+sdb_global_info.plancache.num_shared_plan_LRU_entries_HWM = 0.338962275295
+sdb_global_info.plancache.num_shared_plan_drop_conflict = nan
+sdb_global_info.plancache.num_shared_plan_drops_inuse = 1.34640492698e-08
+sdb_global_info.plancache.num_shared_plan_evictions = 0.629479805408
+sdb_global_info.plancache.num_shared_plan_insert_conflict = 0.517200016192
+sdb_global_info.plancache.num_shared_plan_inval_all = nan
+sdb_global_info.plancache.num_shared_plan_inval_func = nan
+sdb_global_info.plancache.num_shared_plan_inval_oid = nan
+sdb_global_info.plancache.num_shared_plan_src_LRU_entries = 0.132431498713
+sdb_global_info.plancache.num_shared_plan_src_cached = 0.132431498713
+sdb_global_info.plancache.num_shared_plan_src_collisions = nan
+sdb_global_info.plancache.num_shared_plan_src_leaks = nan
+sdb_global_info.plancache.num_shared_plan_src_lookups = 0.352594604595
+sdb_global_info.plancache.num_shared_plan_src_recompiled = nan
+sdb_global_info.plancache.num_shared_plans_cached = 0.132431498713
+sdb_global_info.plancache.num_shared_plans_copy_fail = nan
+sdb_global_info.plancache.num_shared_plans_copy_oom = 0.000473571897035
+sdb_global_info.plancache.num_shared_plans_rejected = 0.000473571897035
+sdb_global_info.plancache.num_shared_psrc_evicted_HWM = 0.27596307878
+sdb_global_info.plancache.num_shared_psrc_param_mismatch = 0.422541857799
+sdb_global_info.plancache.num_shared_psrcs_copy_fail = nan
+sdb_global_info.plancache.num_shared_qry_tree_copy_fail = nan
+sdb_global_info.plancache.num_shared_qrytree_rebuilt = nan
+sdb_global_info.plancache.num_shared_res_desc_copy_fail = nan
+sdb_global_info.plancache.shared_plan_query_tree_size = 0.543218441503
+sdb_global_info.plancache.shared_plan_query_tree_size_HWM = 0.0946326902847
+sdb_global_info.plancache.shared_plan_size = 0.256176176509
+sdb_global_info.plancache.shared_plan_size_HWM = 0.0491483134441
+sdb_global_info.plancache.shared_plan_source_size = 0.696614777721
+sdb_global_info.plancache.shared_plan_source_size_HWM = 0.540060580125
+sdb_global_info.process.connection_counter = 1.71594122265e-08
+sdb_global_info.process.current_connections = 7.63278959239e-07
+sdb_global_info.process.num_app_sess_stats_already_set = 0.372190895609
+sdb_global_info.shcache.shared_cache_blocks_allocated = 0.417686047429
+sdb_global_info.shcache.shared_cache_oom = nan
+sdb_global_info.shcache.shared_total_cache_size = 0.417686047429
+sdb_global_info.shctx.hybrid_allocator_context_size = nan
+sdb_global_info.shctx.shared_plan_context_size = 0.425954468446
+sdb_global_info.shctx.shared_top_context_size = 0.27596307878
+sdb_global_info.shctx.startup_workflows_context_size = 0.0314253385999
+sdb_global_info.minuteSinceMidnight = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_memstore.tsv_t.tsv = (272, 23)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_memstore.tsv_t.tsv = (193, 23)
+('WL1: ', 18)
+('WL2: ', 18)
+Unnamed: 0 = 1.25864000416e-08
+Available in region=0 = 2.60283210884e-08
+Available in region=1 = 2.57177682641e-09
+Available in region=2 = 4.04057061236e-08
+Available in region=3 = 5.41841109959e-09
+Available in region=4 = 2.17682694172e-08
+Available in region=5 = 6.52807666226e-09
+Available in region=6 = 2.66598618871e-08
+Available in region=7 = 4.71333001303e-09
+Free in region=0 = 0.72210238928
+Free in region=1 = 0.715414090549
+Free in region=2 = 0.728875590744
+Free in region=3 = 0.719074987133
+Free in region=4 = 0.717698471882
+Free in region=5 = 0.715772541374
+Free in region=6 = 0.723226438446
+Free in region=7 = 0.724260480572
+sdb_memstore.minuteSinceMidnight = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_sdb_sdb_top_sql(20).tsv_t.tsv = (5984, 44)
+./WL1throttleon/2017-12-07_hr_sdb_sdb_top_sql(20).tsv_t.tsv = (4246, 44)
+('WL1: ', 38)
+('WL2: ', 38)
+Unnamed: 0 = 8.34944643846e-158
+sdb_top_sql(20).minuteSinceMidnight = 0.0
+sdb_top_sql(20).D_timestamp = 0.00128857463457
+sdb_top_sql(20).TotalE2ETime = nan
+sdb_top_sql(20).AvgDuration = 2.01243346128e-07
+sdb_top_sql(20).D_end2end_time_stats__SPI_execute/sec = 0.0928767658135
+sdb_top_sql(20).D_end2end_time_stats__executor_end/sec = 0.0717097223283
+sdb_top_sql(20).D_end2end_time_stats__executor_run/sec = 0.00588897528472
+sdb_top_sql(20).D_end2end_time_stats__executor_start/sec = 0.0411213540367
+sdb_top_sql(20).D_end2end_time_stats__lsm/sec = --
+sdb_top_sql(20).D_end2end_time_stats__lsm_fetch/sec = 3.26747211851e-08
+sdb_top_sql(20).D_end2end_time_stats__lsm_insert/sec = 0.0767061607863
+sdb_top_sql(20).D_end2end_time_stats__lsm_insert_dup_check_primary/sec = 0.128120903907
+sdb_top_sql(20).D_end2end_time_stats__lsm_insert_dup_check_secondary/sec = 0.595443891299
+sdb_top_sql(20).D_end2end_time_stats__lsm_insert_snapshot_check/sec = 0.134360903846
+sdb_top_sql(20).D_end2end_time_stats__lsm_scan/sec = 0.101573847896
+sdb_top_sql(20).D_end2end_time_stats__spl_body/sec = 0.0222777464946
+sdb_top_sql(20).D_end2end_time_stats__spl_overhead/sec = 0.00139383923012
+sdb_top_sql(20).D_end2end_time_stats__store_data_async_status/sec = --
+sdb_top_sql(20).D_end2end_time_stats__store_data_async_submit/sec = --
+sdb_top_sql(20).D_end2end_time_stats__store_log_async_status/sec = 0.502978024381
+sdb_top_sql(20).D_end2end_time_stats__store_log_async_submit/sec = 0.279791937606
+sdb_top_sql(20).D_end2end_time_stats__store_rand_read/sec = 0.00241355549613
+sdb_top_sql(20).D_end2end_time_stats__temp_file_read/sec = 0.00616100970253
+sdb_top_sql(20).D_end2end_time_stats__temp_file_write/sec = 0.00671888019231
+sdb_top_sql(20).D_end2end_time_stats__wait_memstore_throttle/sec = 0.190493229187
+sdb_top_sql(20).D_end2end_time_stats__xlog_cpu_time/sec = 0.400298569617
+sdb_top_sql(20).D_end2end_time_stats__xlog_group_commit_wait/sec = 0.198441942971
+sdb_top_sql(20).D_statement_stats__commitCount/sec = 0.604497611976
+sdb_top_sql(20).D_statement_stats__errorCount/sec = 0.0150128473943
+sdb_top_sql(20).D_statement_stats__execCount/sec = 0.0110502813789
+sdb_top_sql(20).D_statement_stats__optimizeCount/sec = 1.42913599814e-06
+sdb_top_sql(20).D_statement_stats__parseCount/sec = 1.34812557842e-06
+sdb_top_sql(20).D_statement_stats__retryCount/sec = 0.198128675927
+sdb_top_sql(20).D_statement_stats__rollbackCount/sec = 0.640940792715
+sdb_top_sql(20).D_DURATION/sec = 0.00157816756464
+sdb_top_sql(20).D_count/sec = 0.00347705177783
+sdb_top_sql(20).D_userCPUTime/sec = 0.00267482534201
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_cpustats.tsv_t.tsv = (272, 8)
+./WL1throttleon/2017-12-07_hr_system_cpustats.tsv_t.tsv = (194, 8)
+('WL1: ', 3)
+('WL2: ', 3)
+Unnamed: 0 = 4.51016670795e-09
+cpustats.minuteSinceMidnight = 0.0
+cpustats.%User CPU = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_diskstats.tsv_t.tsv = (272, 366)
+./WL1throttleon/2017-12-07_hr_system_diskstats.tsv_t.tsv = (194, 366)
+('WL1: ', 361)
+('WL2: ', 361)
+Unnamed: 0 = 4.51016670795e-09
+diskstats.minuteSinceMidnight = 0.0
+diskstats.D_timestamp = nan
+diskstats.D_sde4.WritesCompleted = --
+diskstats.D_sdc7.ReadsMerged = --
+diskstats.D_sdd3.SectorsWritten = nan
+diskstats.D_md126.SectorsWritten = --
+diskstats.D_sdc4.TimeSpentReading(ms) = --
+diskstats.D_sda7.ReadsCompleted = --
+diskstats.D_sdc2.WritesCompleted = nan
+diskstats.D_md1.WritesMerged = nan
+diskstats.D_sde7.WritesCompleted = --
+diskstats.D_md5.WritesMerged = nan
+diskstats.D_sda4.SectorsRead = --
+diskstats.D_sdb7.ReadsMerged = --
+diskstats.D_sde7.SectorsRead = --
+diskstats.D_md3.SectorsWritten = nan
+diskstats.D_md4.SectorsWritten = nan
+diskstats.D_sdd6.ReadsCompleted = --
+diskstats.D_sda7.ReadsMerged = --
+diskstats.D_sde3.SectorsRead = nan
+diskstats.D_sdd2.SectorsWritten = nan
+diskstats.D_sdc1.ReadsCompleted = nan
+diskstats.D_sda5.WritesMerged = --
+diskstats.D_md125.WritesMerged = --
+diskstats.D_sda6.SectorsRead = --
+diskstats.D_sdd6.WritesCompleted = --
+diskstats.D_sde1.WritesCompleted = nan
+diskstats.D_sdb4.WritesMerged = --
+diskstats.D_sdb5.ReadsMerged = --
+diskstats.D_md2.WritesCompleted = nan
+diskstats.D_sdc1.TimeSpentReading(ms) = nan
+diskstats.D_sdb.TimeSpentReading(ms) = nan
+diskstats.D_md124.TimeSpentReading(ms) = --
+diskstats.D_sdb4.WritesCompleted = --
+diskstats.D_sdb1.ReadsMerged = nan
+diskstats.D_md5.TimeSpentReading(ms) = nan
+diskstats.D_sda6.WritesCompleted = --
+diskstats.D_sda2.ReadsMerged = nan
+diskstats.D_md126.WritesMerged = --
+diskstats.D_sdc7.WritesMerged = --
+diskstats.D_sdc1.SectorsRead = nan
+diskstats.D_md125.ReadsCompleted = --
+diskstats.D_md125.ReadsMerged = --
+diskstats.D_sda.WritesMerged = nan
+diskstats.D_sdc5.WritesMerged = --
+diskstats.D_sda2.SectorsWritten = nan
+diskstats.D_sdb2.SectorsWritten = nan
+diskstats.D_sdc1.WritesMerged = nan
+diskstats.D_sdb3.ReadsCompleted = nan
+diskstats.D_sdd3.SectorsRead = nan
+diskstats.D_md126.WritesCompleted = --
+diskstats.D_sdb1.ReadsCompleted = nan
+diskstats.D_sdb2.WritesCompleted = nan
+diskstats.D_sde6.ReadsCompleted = --
+diskstats.D_md123.ReadsCompleted = --
+diskstats.D_md125.SectorsWritten = --
+diskstats.D_md124.WritesMerged = --
+diskstats.D_md127.SectorsRead = --
+diskstats.D_sde4.SectorsRead = --
+diskstats.D_md0.WritesCompleted = nan
+diskstats.D_sda3.ReadsCompleted = nan
+diskstats.D_sda3.WritesMerged = nan
+diskstats.D_sdc2.SectorsWritten = nan
+diskstats.D_sda7.TimeSpentReading(ms) = --
+diskstats.D_md4.ReadsMerged = nan
+diskstats.D_sda2.WritesCompleted = nan
+diskstats.D_sda2.SectorsRead = nan
+diskstats.D_sdb4.SectorsRead = --
+diskstats.D_sde2.TimeSpentReading(ms) = nan
+diskstats.D_sdc2.ReadsCompleted = nan
+diskstats.D_sdd4.WritesMerged = --
+diskstats.D_sdc7.TimeSpentReading(ms) = --
+diskstats.D_md127.WritesCompleted = --
+diskstats.D_sdb7.SectorsWritten = --
+diskstats.D_sdd2.ReadsMerged = nan
+diskstats.D_sdc3.SectorsWritten = nan
+diskstats.D_sdd7.TimeSpentReading(ms) = --
+diskstats.D_sda1.WritesCompleted = nan
+diskstats.D_sde6.WritesMerged = --
+diskstats.D_sdb3.SectorsWritten = nan
+diskstats.D_md2.SectorsRead = nan
+diskstats.D_sde.SectorsWritten = nan
+diskstats.D_sdb7.WritesMerged = --
+diskstats.D_sda5.TimeSpentReading(ms) = --
+diskstats.D_sdb5.SectorsWritten = --
+diskstats.D_sde.SectorsRead = nan
+diskstats.D_sdb2.SectorsRead = nan
+diskstats.D_sdd1.ReadsCompleted = nan
+diskstats.D_sda3.ReadsMerged = nan
+diskstats.D_sde1.ReadsMerged = nan
+diskstats.D_sda4.TimeSpentReading(ms) = --
+diskstats.D_sde4.ReadsMerged = --
+diskstats.D_sdd4.ReadsCompleted = --
+diskstats.D_sda2.TimeSpentReading(ms) = nan
+diskstats.D_sda4.WritesMerged = --
+diskstats.D_sdb5.WritesCompleted = --
+diskstats.D_sdc.ReadsCompleted = nan
+diskstats.D_sde6.ReadsMerged = --
+diskstats.D_md127.ReadsCompleted = --
+diskstats.D_sda3.WritesCompleted = nan
+diskstats.D_sdb5.TimeSpentReading(ms) = --
+diskstats.D_md1.SectorsWritten = nan
+diskstats.D_sda7.SectorsRead = --
+diskstats.D_sde5.SectorsRead = --
+diskstats.D_md123.WritesMerged = --
+diskstats.D_sdc7.WritesCompleted = --
+diskstats.D_sdc2.ReadsMerged = nan
+diskstats.D_sdb.SectorsRead = nan
+diskstats.D_sdb4.SectorsWritten = --
+diskstats.D_sdb1.WritesCompleted = nan
+diskstats.D_sda.TimeSpentReading(ms) = nan
+diskstats.D_sdc3.ReadsMerged = nan
+diskstats.D_sda.SectorsWritten = nan
+diskstats.D_sdc5.ReadsMerged = --
+diskstats.D_sda1.TimeSpentReading(ms) = nan
+diskstats.D_md124.ReadsCompleted = --
+diskstats.D_md4.TimeSpentReading(ms) = nan
+diskstats.D_md3.WritesCompleted = nan
+diskstats.D_sdc3.WritesCompleted = nan
+diskstats.D_sde5.WritesMerged = --
+diskstats.D_md3.ReadsMerged = nan
+diskstats.D_timestamp.1 = nan
+diskstats.D_sdd5.WritesMerged = --
+diskstats.D_md3.TimeSpentReading(ms) = nan
+diskstats.D_sdc7.SectorsRead = --
+diskstats.D_md123.WritesCompleted = --
+diskstats.D_sde.TimeSpentReading(ms) = nan
+diskstats.D_sdd5.WritesCompleted = --
+diskstats.D_md5.ReadsCompleted = nan
+diskstats.D_sdc7.ReadsCompleted = --
+diskstats.D_sda.ReadsCompleted = nan
+diskstats.D_sde6.WritesCompleted = --
+diskstats.D_sdb7.SectorsRead = --
+diskstats.D_sde2.WritesCompleted = nan
+diskstats.D_sdb4.ReadsMerged = --
+diskstats.D_sdc.TimeSpentReading(ms) = nan
+diskstats.D_sdd4.WritesCompleted = --
+diskstats.D_md2.SectorsWritten = nan
+diskstats.D_sdb2.ReadsMerged = nan
+diskstats.D_sda.WritesCompleted = nan
+diskstats.D_sde4.WritesMerged = --
+diskstats.D_sdd5.ReadsMerged = --
+diskstats.D_md125.WritesCompleted = --
+diskstats.D_sda3.SectorsWritten = nan
+diskstats.D_sde4.ReadsCompleted = --
+diskstats.D_sdd6.WritesMerged = --
+diskstats.D_sde5.WritesCompleted = --
+diskstats.D_md1.TimeSpentReading(ms) = nan
+diskstats.D_sde6.SectorsRead = --
+diskstats.D_sdd.ReadsMerged = nan
+diskstats.D_sdb4.TimeSpentReading(ms) = --
+diskstats.D_sdd3.ReadsCompleted = nan
+diskstats.D_sdb7.WritesCompleted = --
+diskstats.D_sdd2.WritesMerged = nan
+diskstats.D_sda5.SectorsWritten = --
+diskstats.D_sda5.ReadsMerged = --
+diskstats.D_sdb7.ReadsCompleted = --
+diskstats.D_sdc2.TimeSpentReading(ms) = nan
+diskstats.D_sde7.SectorsWritten = --
+diskstats.D_sda4.WritesCompleted = --
+diskstats.D_sdc7.SectorsWritten = --
+diskstats.D_sdb2.ReadsCompleted = nan
+diskstats.D_md126.TimeSpentReading(ms) = --
+diskstats.D_sdc1.WritesCompleted = nan
+diskstats.D_sdd6.ReadsMerged = --
+diskstats.D_sdd7.SectorsRead = --
+diskstats.D_md125.TimeSpentReading(ms) = --
+diskstats.D_sde3.TimeSpentReading(ms) = nan
+diskstats.D_md124.ReadsMerged = --
+diskstats.D_sda7.SectorsWritten = --
+diskstats.D_md124.WritesCompleted = --
+diskstats.D_md127.TimeSpentReading(ms) = --
+diskstats.D_sdc5.SectorsWritten = --
+diskstats.D_sdc4.ReadsMerged = --
+diskstats.D_sdc.ReadsMerged = nan
+diskstats.D_sdc5.TimeSpentReading(ms) = --
+diskstats.D_sde.WritesCompleted = nan
+diskstats.D_md1.WritesCompleted = nan
+diskstats.D_sde7.WritesMerged = --
+diskstats.D_sdb.ReadsCompleted = nan
+diskstats.D_sdd1.ReadsMerged = nan
+diskstats.D_sdd6.SectorsWritten = --
+diskstats.D_sdc5.WritesCompleted = --
+diskstats.D_sde1.TimeSpentReading(ms) = nan
+diskstats.D_sde.ReadsMerged = nan
+diskstats.D_sdc3.WritesMerged = nan
+diskstats.D_sda2.WritesMerged = nan
+diskstats.D_md1.SectorsRead = nan
+diskstats.D_sdc2.SectorsRead = nan
+diskstats.D_sdd1.WritesMerged = nan
+diskstats.D_sda1.SectorsRead = nan
+diskstats.D_sde5.ReadsCompleted = --
+diskstats.D_sdd3.ReadsMerged = nan
+diskstats.D_sdd2.WritesCompleted = nan
+diskstats.D_sde2.SectorsRead = nan
+diskstats.D_sdd7.ReadsMerged = --
+diskstats.D_sde1.ReadsCompleted = nan
+diskstats.D_sdb3.SectorsRead = nan
+diskstats.D_sdc2.WritesMerged = nan
+diskstats.D_md2.WritesMerged = nan
+diskstats.D_md0.TimeSpentReading(ms) = nan
+diskstats.D_sdc6.ReadsCompleted = --
+diskstats.D_sdc4.WritesCompleted = --
+diskstats.D_md127.SectorsWritten = --
+diskstats.D_sda1.SectorsWritten = nan
+diskstats.D_sda1.ReadsMerged = nan
+diskstats.D_sdd3.TimeSpentReading(ms) = nan
+diskstats.D_sdb2.TimeSpentReading(ms) = nan
+diskstats.D_sdc.SectorsWritten = nan
+diskstats.D_sdb6.ReadsCompleted = --
+diskstats.D_sde.WritesMerged = nan
+diskstats.D_sdb5.ReadsCompleted = --
+diskstats.D_sda.SectorsRead = nan
+diskstats.D_sda7.WritesCompleted = --
+diskstats.D_md0.ReadsMerged = nan
+diskstats.D_sdb6.WritesMerged = --
+diskstats.D_md2.ReadsCompleted = nan
+diskstats.D_sdd2.SectorsRead = nan
+diskstats.D_sdd7.ReadsCompleted = --
+diskstats.D_sdc4.WritesMerged = --
+diskstats.D_sda3.TimeSpentReading(ms) = nan
+diskstats.D_sda5.WritesCompleted = --
+diskstats.D_sda6.ReadsCompleted = --
+diskstats.D_sdb3.TimeSpentReading(ms) = nan
+diskstats.D_sdd.WritesCompleted = nan
+diskstats.D_sdb1.WritesMerged = nan
+diskstats.D_sdb.SectorsWritten = nan
+diskstats.D_sdc4.SectorsRead = --
+diskstats.D_sdb5.WritesMerged = --
+diskstats.D_sdd4.SectorsRead = --
+diskstats.D_md126.ReadsCompleted = --
+diskstats.D_sde5.TimeSpentReading(ms) = --
+diskstats.D_sdc.SectorsRead = nan
+diskstats.D_sdb7.TimeSpentReading(ms) = --
+diskstats.D_sda.ReadsMerged = nan
+diskstats.D_sdd3.WritesCompleted = nan
+diskstats.D_sde2.WritesMerged = nan
+diskstats.D_sdd7.SectorsWritten = --
+diskstats.D_sdc4.ReadsCompleted = --
+diskstats.D_sdd4.SectorsWritten = --
+diskstats.D_sdd6.SectorsRead = --
+diskstats.D_sda4.ReadsCompleted = --
+diskstats.D_sdb5.SectorsRead = --
+diskstats.D_sdd7.WritesCompleted = --
+diskstats.D_sdd2.TimeSpentReading(ms) = nan
+diskstats.D_md124.SectorsRead = --
+diskstats.D_sde3.WritesMerged = nan
+diskstats.D_md0.ReadsCompleted = nan
+diskstats.D_sdc4.SectorsWritten = --
+diskstats.D_sde6.TimeSpentReading(ms) = --
+diskstats.D_sda7.WritesMerged = --
+diskstats.D_md123.SectorsRead = --
+diskstats.D_sdc6.SectorsRead = --
+diskstats.D_sdc5.ReadsCompleted = --
+diskstats.D_sde7.TimeSpentReading(ms) = --
+diskstats.D_md4.ReadsCompleted = nan
+diskstats.D_sda6.SectorsWritten = --
+diskstats.D_sda3.SectorsRead = nan
+diskstats.D_sdd2.ReadsCompleted = nan
+diskstats.D_sdb6.ReadsMerged = --
+diskstats.D_sdb.WritesCompleted = nan
+diskstats.D_sdc6.ReadsMerged = --
+diskstats.D_sde4.TimeSpentReading(ms) = --
+diskstats.D_md127.ReadsMerged = --
+diskstats.D_sde5.ReadsMerged = --
+diskstats.D_sdc6.WritesCompleted = --
+diskstats.D_sdd5.SectorsRead = --
+diskstats.D_md2.TimeSpentReading(ms) = nan
+diskstats.D_sdc6.TimeSpentReading(ms) = --
+diskstats.D_sdc1.SectorsWritten = nan
+diskstats.D_sdd.SectorsWritten = nan
+diskstats.D_sdc3.SectorsRead = nan
+diskstats.D_sdd1.SectorsRead = nan
+diskstats.D_sde7.ReadsCompleted = --
+diskstats.D_sdd.ReadsCompleted = nan
+diskstats.D_sdc3.ReadsCompleted = nan
+diskstats.D_md4.WritesCompleted = nan
+diskstats.D_sde4.SectorsWritten = --
+diskstats.D_sdc.WritesMerged = nan
+diskstats.D_sdd.SectorsRead = nan
+diskstats.D_sdd4.ReadsMerged = --
+diskstats.D_md5.ReadsMerged = nan
+diskstats.D_md4.SectorsRead = nan
+diskstats.D_sdc6.WritesMerged = --
+diskstats.D_sda6.TimeSpentReading(ms) = --
+diskstats.D_sde1.SectorsWritten = nan
+diskstats.D_sdb6.SectorsRead = --
+diskstats.D_sde3.WritesCompleted = nan
+diskstats.D_sda4.SectorsWritten = --
+diskstats.D_sdd1.WritesCompleted = nan
+diskstats.D_sdb6.WritesCompleted = --
+diskstats.D_md4.WritesMerged = nan
+diskstats.D_md123.SectorsWritten = --
+diskstats.D_sdb2.WritesMerged = nan
+diskstats.D_md126.ReadsMerged = --
+diskstats.D_sde.ReadsCompleted = nan
+diskstats.D_sdb.WritesMerged = nan
+diskstats.D_sde2.ReadsCompleted = nan
+diskstats.D_sda5.SectorsRead = --
+diskstats.D_md1.ReadsMerged = nan
+diskstats.D_md3.ReadsCompleted = nan
+diskstats.D_sdb1.SectorsWritten = nan
+diskstats.D_sdd6.TimeSpentReading(ms) = --
+diskstats.D_sdd4.TimeSpentReading(ms) = --
+diskstats.D_sdb1.TimeSpentReading(ms) = nan
+diskstats.D_sde1.WritesMerged = nan
+diskstats.D_sde7.ReadsMerged = --
+diskstats.D_sde3.ReadsMerged = nan
+diskstats.D_sdb3.WritesCompleted = nan
+diskstats.D_sda1.ReadsCompleted = nan
+diskstats.D_md0.SectorsWritten = nan
+diskstats.D_sda6.WritesMerged = --
+diskstats.D_md127.WritesMerged = --
+diskstats.D_md3.SectorsRead = nan
+diskstats.D_md126.SectorsRead = --
+diskstats.D_sde6.SectorsWritten = --
+diskstats.D_sde3.ReadsCompleted = nan
+diskstats.D_sdb6.SectorsWritten = --
+diskstats.D_sdb4.ReadsCompleted = --
+diskstats.D_sdc.WritesCompleted = nan
+diskstats.D_sde1.SectorsRead = nan
+diskstats.D_md123.ReadsMerged = --
+diskstats.D_sdb3.ReadsMerged = nan
+diskstats.D_sdd5.TimeSpentReading(ms) = --
+diskstats.D_sdd1.TimeSpentReading(ms) = nan
+diskstats.D_md5.WritesCompleted = nan
+diskstats.D_md123.TimeSpentReading(ms) = --
+diskstats.D_sda2.ReadsCompleted = nan
+diskstats.D_sde2.ReadsMerged = nan
+diskstats.D_sdb6.TimeSpentReading(ms) = --
+diskstats.D_sdd5.ReadsCompleted = --
+diskstats.D_sdd.TimeSpentReading(ms) = nan
+diskstats.D_sdd7.WritesMerged = --
+diskstats.D_sde5.SectorsWritten = --
+diskstats.D_sde3.SectorsWritten = nan
+diskstats.D_md2.ReadsMerged = nan
+diskstats.D_sda1.WritesMerged = nan
+diskstats.D_sdd3.WritesMerged = nan
+diskstats.D_sda4.ReadsMerged = --
+diskstats.D_sdc3.TimeSpentReading(ms) = nan
+diskstats.D_sda6.ReadsMerged = --
+diskstats.D_sdc5.SectorsRead = --
+diskstats.D_sdb.ReadsMerged = nan
+diskstats.D_md124.SectorsWritten = --
+diskstats.D_sdd.WritesMerged = nan
+diskstats.D_md125.SectorsRead = --
+diskstats.D_md3.WritesMerged = nan
+diskstats.D_md5.SectorsWritten = nan
+diskstats.D_sdb1.SectorsRead = nan
+diskstats.D_sdd1.SectorsWritten = nan
+diskstats.D_sdc6.SectorsWritten = --
+diskstats.D_sdb3.WritesMerged = nan
+diskstats.D_sde2.SectorsWritten = nan
+diskstats.D_md0.WritesMerged = nan
+diskstats.D_sda5.ReadsCompleted = --
+diskstats.D_md1.ReadsCompleted = nan
+diskstats.D_md5.SectorsRead = nan
+diskstats.D_sdd5.SectorsWritten = --
+diskstats.D_md0.SectorsRead = nan
+diskstats.D_sdc1.ReadsMerged = nan
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_filesystemstats.tsv_t.tsv = (272, 12)
+./WL1throttleon/2017-12-07_hr_system_filesystemstats.tsv_t.tsv = (194, 12)
+('WL1: ', 6)
+('WL2: ', 6)
+Unnamed: 0 = 4.51016670795e-09
+filesystemstats.minuteSinceMidnight = 0.0
+filesystemstats.AllocatedButUnusedFileHandles = nan
+filesystemstats.AllocatedFileHandles = 1.26467742123e-08
+filesystemstats.MaxFileHandles = 1.72014046934e-11
+filesystemstats.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_inodestats.tsv_t.tsv = (272, 12)
+./WL1throttleon/2017-12-07_hr_system_inodestats.tsv_t.tsv = (194, 12)
+('WL1: ', 6)
+('WL2: ', 6)
+Unnamed: 0 = 4.51016670795e-09
+inodestats.minuteSinceMidnight = 0.0
+inodestats.FreeInodes = 9.56533162768e-30
+inodestats.NumberOfInodes = 3.01254742041e-08
+inodestats.Preshrink = nan
+inodestats.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_loadavg.tsv_t.tsv = (272, 14)
+./WL1throttleon/2017-12-07_hr_system_loadavg.tsv_t.tsv = (194, 14)
+('WL1: ', 8)
+('WL2: ', 8)
+Unnamed: 0 = 4.51016670795e-09
+loadavg.minuteSinceMidnight = 0.0
+loadavg.15MinAverage = 0.000100888011458
+loadavg.1MinAverage = 0.000738693283336
+loadavg.5MinAverage = 6.74811917041e-06
+loadavg.CurrentRunningProcesses = 0.80217991213
+loadavg.NumProcessesWaitingForCPU = 2.19181311462e-08
+loadavg.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_meminfo.tsv_t.tsv = (272, 53)
+./WL1throttleon/2017-12-07_hr_system_meminfo.tsv_t.tsv = (194, 53)
+('WL1: ', 47)
+('WL2: ', 47)
+Unnamed: 0 = 4.51016670795e-09
+meminfo.minuteSinceMidnight = 0.0
+meminfo.Active = 0.226068550746
+meminfo.Active(anon) = 0.411773372588
+meminfo.Active(file) = 0.449824168674
+meminfo.AnonHugePages = 2.03920512812e-09
+meminfo.AnonPages = 0.889411389824
+meminfo.Bounce = nan
+meminfo.Buffers = 4.1028359553e-20
+meminfo.Cached = 0.0104254378373
+meminfo.CommitLimit = 1.72014056286e-11
+meminfo.Committed_AS = 9.41756335864e-06
+meminfo.DirectMap1G = 1.72014103517e-11
+meminfo.DirectMap2M = 1.72014103517e-11
+meminfo.DirectMap4k = 1.72014103517e-11
+meminfo.Dirty = 0.497693412677
+meminfo.HardwareCorrupted = nan
+meminfo.HugePages_Free = 0.0029178760186
+meminfo.HugePages_Rsvd = 0.00238064562853
+meminfo.HugePages_Surp = nan
+meminfo.HugePages_Total = 1.72014103517e-11
+meminfo.Hugepagesize = nan
+meminfo.Inactive = 4.11838933199e-12
+meminfo.Inactive(anon) = 2.05875983284e-10
+meminfo.Inactive(file) = 3.42788090785e-12
+meminfo.KernelStack = 3.59255448365e-09
+meminfo.Mapped = 3.47016344473e-07
+meminfo.MemAvailable = --
+meminfo.MemFree = 1.33808790259e-07
+meminfo.MemTotal = 1.72014084899e-11
+meminfo.Mlocked = 1.70240776983e-11
+meminfo.NFS_Unstable = nan
+meminfo.PageTables = 0.0313794988384
+meminfo.SReclaimable = 1.47274352839e-09
+meminfo.SUnreclaim = 5.36637960088e-11
+meminfo.Shmem = 1.7224097871e-11
+meminfo.Slab = 1.34681698367e-09
+meminfo.SwapCached = 0.260592063542
+meminfo.SwapFree = 1.72022011266e-11
+meminfo.SwapTotal = 1.72014103517e-11
+meminfo.Unevictable = 1.70240776983e-11
+meminfo.VmallocChunk = 1.72007832512e-11
+meminfo.VmallocTotal = nan
+meminfo.VmallocUsed = 1.73675337654e-11
+meminfo.Writeback = 0.430040631616
+meminfo.WritebackTmp = nan
+meminfo.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_netstat.tsv_t.tsv = (272, 109)
+./WL1throttleon/2017-12-07_hr_system_netstat.tsv_t.tsv = (194, 109)
+('WL1: ', 103)
+('WL2: ', 103)
+Unnamed: 0 = 4.51016670795e-09
+netstat.minuteSinceMidnight = 0.0
+netstat.IpExt.InBcastOctets = nan
+netstat.IpExt.InBcastPkts = nan
+netstat.IpExt.InMcastOctets = nan
+netstat.IpExt.InMcastPkts = nan
+netstat.IpExt.InNoRoutes = nan
+netstat.IpExt.InOctets = 0.000570955413846
+netstat.IpExt.InTruncatedPkts = nan
+netstat.IpExt.OutBcastOctets = nan
+netstat.IpExt.OutBcastPkts = nan
+netstat.IpExt.OutMcastOctets = nan
+netstat.IpExt.OutMcastPkts = nan
+netstat.IpExt.OutOctets = 0.00350345850589
+netstat.TcpExt.ArpFilter = nan
+netstat.TcpExt.BusyPollRxPackets = nan
+netstat.TcpExt.DelayedACKLocked = 0.673530705769
+netstat.TcpExt.DelayedACKLost = 0.0233076961892
+netstat.TcpExt.DelayedACKs = 0.511951405536
+netstat.TcpExt.EmbryonicRsts = nan
+netstat.TcpExt.IPReversePathFilter = --
+netstat.TcpExt.ListenDrops = nan
+netstat.TcpExt.ListenOverflows = nan
+netstat.TcpExt.LockDroppedIcmps = nan
+netstat.TcpExt.OfoPruned = nan
+netstat.TcpExt.OutOfWindowIcmps = nan
+netstat.TcpExt.PAWSActive = nan
+netstat.TcpExt.PAWSEstab = nan
+netstat.TcpExt.PAWSPassive = nan
+netstat.TcpExt.PruneCalled = 0.103517930082
+netstat.TcpExt.RcvPruned = nan
+netstat.TcpExt.SyncookiesFailed = 0.0948883981721
+netstat.TcpExt.SyncookiesRecv = nan
+netstat.TcpExt.SyncookiesSent = nan
+netstat.TcpExt.TCPAbortFailed = nan
+netstat.TcpExt.TCPAbortOnClose = 0.00702095881055
+netstat.TcpExt.TCPAbortOnData = 0.000389213108976
+netstat.TcpExt.TCPAbortOnLinger = nan
+netstat.TcpExt.TCPAbortOnMemory = nan
+netstat.TcpExt.TCPAbortOnTimeout = nan
+netstat.TcpExt.TCPBacklogDrop = nan
+netstat.TcpExt.TCPChallengeACK = nan
+netstat.TcpExt.TCPDSACKIgnoredNoUndo = 0.0632313172718
+netstat.TcpExt.TCPDSACKIgnoredOld = 0.39895264845
+netstat.TcpExt.TCPDSACKOfoRecv = nan
+netstat.TcpExt.TCPDSACKOfoSent = nan
+netstat.TcpExt.TCPDSACKOldSent = 0.0233079811611
+netstat.TcpExt.TCPDSACKRecv = 0.93912155883
+netstat.TcpExt.TCPDSACKUndo = 0.342028384879
+netstat.TcpExt.TCPDeferAcceptDrop = --
+netstat.TcpExt.TCPDirectCopyFromBacklog = 0.623217526423
+netstat.TcpExt.TCPDirectCopyFromPrequeue = 0.000163334704377
+netstat.TcpExt.TCPFACKReorder = 0.947268651655
+netstat.TcpExt.TCPFastRetrans = 0.677873788304
+netstat.TcpExt.TCPForwardRetrans = 0.898046490134
+netstat.TcpExt.TCPFullUndo = 0.701223909581
+netstat.TcpExt.TCPHPAcks = 0.00760144341671
+netstat.TcpExt.TCPHPHits = 0.0140919992986
+netstat.TcpExt.TCPHPHitsToUser = 0.754507001158
+netstat.TcpExt.TCPLoss = nan
+netstat.TcpExt.TCPLossFailures = nan
+netstat.TcpExt.TCPLossProbeRecovery = --
+netstat.TcpExt.TCPLossProbes = --
+netstat.TcpExt.TCPLossUndo = 0.00435110688583
+netstat.TcpExt.TCPLostRetransmit = nan
+netstat.TcpExt.TCPMD5NotFound = nan
+netstat.TcpExt.TCPMD5Unexpected = nan
+netstat.TcpExt.TCPMemoryPressures = nan
+netstat.TcpExt.TCPMinTTLDrop = nan
+netstat.TcpExt.TCPOFODrop = nan
+netstat.TcpExt.TCPOFOMerge = nan
+netstat.TcpExt.TCPOFOQueue = nan
+netstat.TcpExt.TCPPartialUndo = 0.749427809111
+netstat.TcpExt.TCPPrequeueDropped = nan
+netstat.TcpExt.TCPPrequeued = 0.00383659325668
+netstat.TcpExt.TCPPureAcks = 0.754024063789
+netstat.TcpExt.TCPRcvCollapsed = 0.0792757347254
+netstat.TcpExt.TCPRenoFailures = nan
+netstat.TcpExt.TCPRenoRecovery = nan
+netstat.TcpExt.TCPRenoRecoveryFail = nan
+netstat.TcpExt.TCPRenoReorder = nan
+netstat.TcpExt.TCPReqQFullDoCookies = --
+netstat.TcpExt.TCPReqQFullDrop = --
+netstat.TcpExt.TCPSACKDiscard = nan
+netstat.TcpExt.TCPSACKReneging = nan
+netstat.TcpExt.TCPSACKReorder = 0.864547399082
+netstat.TcpExt.TCPSYNChallenge = nan
+netstat.TcpExt.TCPSackFailures = nan
+netstat.TcpExt.TCPSackMerged = 0.18658036288
+netstat.TcpExt.TCPSackRecovery = 0.32841557748
+netstat.TcpExt.TCPSackRecoveryFail = nan
+netstat.TcpExt.TCPSackShiftFallback = 0.95706727863
+netstat.TcpExt.TCPSackShifted = 0.511633241488
+netstat.TcpExt.TCPSchedulerFailed = nan
+netstat.TcpExt.TCPSlowStartRetrans = nan
+netstat.TcpExt.TCPSpuriousRTOs = 0.39895264845
+netstat.TcpExt.TCPTSReorder = 0.965817459709
+netstat.TcpExt.TCPTimeWaitOverflow = --
+netstat.TcpExt.TCPTimeouts = 0.969325334228
+netstat.TcpExt.TW = 0.858297858974
+netstat.TcpExt.TWKilled = nan
+netstat.TcpExt.TWRecycled = nan
+netstat.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_networkdevicestats.tsv_t.tsv = (272, 129)
+./WL1throttleon/2017-12-07_hr_system_networkdevicestats.tsv_t.tsv = (194, 129)
+('WL1: ', 123)
+('WL2: ', 123)
+Unnamed: 0 = 4.51016670795e-09
+networkdevicestats.minuteSinceMidnight = 0.0
+networkdevicestats.Overall.recievedBytes = 0.0442794813273
+networkdevicestats.Overall.recievedDropped = nan
+networkdevicestats.Overall.recievedErrors = 1.01210805955e-10
+networkdevicestats.Overall.recievedPackets = 0.0715199140516
+networkdevicestats.Overall.transmittedBytes = 0.153103908401
+networkdevicestats.Overall.transmittedDropped = nan
+networkdevicestats.Overall.transmittedErrors = nan
+networkdevicestats.Overall.transmittedPackets = 0.14964252536
+networkdevicestats.eth0.recievedBytes = 0.00194879066187
+networkdevicestats.eth0.recievedDropped = nan
+networkdevicestats.eth0.recievedErrors = 0.39895264845
+networkdevicestats.eth0.recievedPackets = 0.00329099236936
+networkdevicestats.eth0.transmittedBytes = 0.00508525389379
+networkdevicestats.eth0.transmittedDropped = nan
+networkdevicestats.eth0.transmittedErrors = nan
+networkdevicestats.eth0.transmittedPackets = 0.00524788876512
+networkdevicestats.eth1.recievedBytes = 0.483833457723
+networkdevicestats.eth1.recievedDropped = nan
+networkdevicestats.eth1.recievedErrors = nan
+networkdevicestats.eth1.recievedPackets = 0.483833457723
+networkdevicestats.eth1.transmittedBytes = nan
+networkdevicestats.eth1.transmittedDropped = nan
+networkdevicestats.eth1.transmittedErrors = nan
+networkdevicestats.eth1.transmittedPackets = nan
+networkdevicestats.eth10.recievedBytes = nan
+networkdevicestats.eth10.recievedDropped = nan
+networkdevicestats.eth10.recievedErrors = nan
+networkdevicestats.eth10.recievedPackets = nan
+networkdevicestats.eth10.transmittedBytes = nan
+networkdevicestats.eth10.transmittedDropped = nan
+networkdevicestats.eth10.transmittedErrors = nan
+networkdevicestats.eth10.transmittedPackets = nan
+networkdevicestats.eth11.recievedBytes = nan
+networkdevicestats.eth11.recievedDropped = nan
+networkdevicestats.eth11.recievedErrors = nan
+networkdevicestats.eth11.recievedPackets = nan
+networkdevicestats.eth11.transmittedBytes = nan
+networkdevicestats.eth11.transmittedDropped = nan
+networkdevicestats.eth11.transmittedErrors = nan
+networkdevicestats.eth11.transmittedPackets = nan
+networkdevicestats.eth12.recievedBytes = nan
+networkdevicestats.eth12.recievedDropped = nan
+networkdevicestats.eth12.recievedErrors = nan
+networkdevicestats.eth12.recievedPackets = nan
+networkdevicestats.eth12.transmittedBytes = nan
+networkdevicestats.eth12.transmittedDropped = nan
+networkdevicestats.eth12.transmittedErrors = nan
+networkdevicestats.eth12.transmittedPackets = nan
+networkdevicestats.eth13.recievedBytes = nan
+networkdevicestats.eth13.recievedDropped = nan
+networkdevicestats.eth13.recievedErrors = nan
+networkdevicestats.eth13.recievedPackets = nan
+networkdevicestats.eth13.transmittedBytes = nan
+networkdevicestats.eth13.transmittedDropped = nan
+networkdevicestats.eth13.transmittedErrors = nan
+networkdevicestats.eth13.transmittedPackets = nan
+networkdevicestats.eth2.recievedBytes = 0.000186825196664
+networkdevicestats.eth2.recievedDropped = nan
+networkdevicestats.eth2.recievedErrors = nan
+networkdevicestats.eth2.recievedPackets = 0.000486554752179
+networkdevicestats.eth2.transmittedBytes = 0.00285349165698
+networkdevicestats.eth2.transmittedDropped = nan
+networkdevicestats.eth2.transmittedErrors = nan
+networkdevicestats.eth2.transmittedPackets = 0.00288550814636
+networkdevicestats.eth3.recievedBytes = 0.275237199082
+networkdevicestats.eth3.recievedDropped = nan
+networkdevicestats.eth3.recievedErrors = nan
+networkdevicestats.eth3.recievedPackets = 0.275237199082
+networkdevicestats.eth3.transmittedBytes = nan
+networkdevicestats.eth3.transmittedDropped = nan
+networkdevicestats.eth3.transmittedErrors = nan
+networkdevicestats.eth3.transmittedPackets = nan
+networkdevicestats.eth4.recievedBytes = 5.35176834672e-10
+networkdevicestats.eth4.recievedDropped = nan
+networkdevicestats.eth4.recievedErrors = nan
+networkdevicestats.eth4.recievedPackets = 5.35176834672e-10
+networkdevicestats.eth4.transmittedBytes = nan
+networkdevicestats.eth4.transmittedDropped = nan
+networkdevicestats.eth4.transmittedErrors = nan
+networkdevicestats.eth4.transmittedPackets = nan
+networkdevicestats.eth5.recievedBytes = nan
+networkdevicestats.eth5.recievedDropped = nan
+networkdevicestats.eth5.recievedErrors = nan
+networkdevicestats.eth5.recievedPackets = nan
+networkdevicestats.eth5.transmittedBytes = nan
+networkdevicestats.eth5.transmittedDropped = nan
+networkdevicestats.eth5.transmittedErrors = nan
+networkdevicestats.eth5.transmittedPackets = nan
+networkdevicestats.eth6.recievedBytes = 0.0184299985206
+networkdevicestats.eth6.recievedDropped = nan
+networkdevicestats.eth6.recievedErrors = nan
+networkdevicestats.eth6.recievedPackets = 0.0265283140525
+networkdevicestats.eth6.transmittedBytes = 0.0341743530845
+networkdevicestats.eth6.transmittedDropped = nan
+networkdevicestats.eth6.transmittedErrors = nan
+networkdevicestats.eth6.transmittedPackets = 0.0275644485141
+networkdevicestats.eth7.recievedBytes = nan
+networkdevicestats.eth7.recievedDropped = nan
+networkdevicestats.eth7.recievedErrors = nan
+networkdevicestats.eth7.recievedPackets = nan
+networkdevicestats.eth7.transmittedBytes = nan
+networkdevicestats.eth7.transmittedDropped = nan
+networkdevicestats.eth7.transmittedErrors = nan
+networkdevicestats.eth7.transmittedPackets = nan
+networkdevicestats.eth8.recievedBytes = nan
+networkdevicestats.eth8.recievedDropped = nan
+networkdevicestats.eth8.recievedErrors = nan
+networkdevicestats.eth8.recievedPackets = nan
+networkdevicestats.eth8.transmittedBytes = nan
+networkdevicestats.eth8.transmittedDropped = nan
+networkdevicestats.eth8.transmittedErrors = nan
+networkdevicestats.eth8.transmittedPackets = nan
+networkdevicestats.eth9.recievedBytes = nan
+networkdevicestats.eth9.recievedDropped = nan
+networkdevicestats.eth9.recievedErrors = nan
+networkdevicestats.eth9.recievedPackets = nan
+networkdevicestats.eth9.transmittedBytes = nan
+networkdevicestats.eth9.transmittedDropped = nan
+networkdevicestats.eth9.transmittedErrors = nan
+networkdevicestats.eth9.transmittedPackets = nan
+networkdevicestats.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_networkprotocolstats.tsv_t.tsv = (272, 84)
+./WL1throttleon/2017-12-07_hr_system_networkprotocolstats.tsv_t.tsv = (194, 84)
+('WL1: ', 78)
+('WL2: ', 78)
+Unnamed: 0 = 4.51016670795e-09
+networkprotocolstats.minuteSinceMidnight = 0.0
+networkprotocolstats.Icmp.InAddrMaskReps = nan
+networkprotocolstats.Icmp.InAddrMasks = nan
+networkprotocolstats.Icmp.InCsumErrors = --
+networkprotocolstats.Icmp.InDestUnreachs = nan
+networkprotocolstats.Icmp.InEchoReps = nan
+networkprotocolstats.Icmp.InEchos = 1.05769439153e-10
+networkprotocolstats.Icmp.InErrors = nan
+networkprotocolstats.Icmp.InMsgs = 3.26120322955e-08
+networkprotocolstats.Icmp.InParmProbs = nan
+networkprotocolstats.Icmp.InRedirects = nan
+networkprotocolstats.Icmp.InSrcQuenchs = nan
+networkprotocolstats.Icmp.InTimeExcds = 0.190424219763
+networkprotocolstats.Icmp.InTimestampReps = nan
+networkprotocolstats.Icmp.InTimestamps = nan
+networkprotocolstats.Icmp.OutAddrMaskReps = nan
+networkprotocolstats.Icmp.OutAddrMasks = nan
+networkprotocolstats.Icmp.OutDestUnreachs = 0.841602913856
+networkprotocolstats.Icmp.OutEchoReps = 1.05769439153e-10
+networkprotocolstats.Icmp.OutEchos = nan
+networkprotocolstats.Icmp.OutErrors = nan
+networkprotocolstats.Icmp.OutMsgs = 6.27411565056e-09
+networkprotocolstats.Icmp.OutParmProbs = nan
+networkprotocolstats.Icmp.OutRedirects = nan
+networkprotocolstats.Icmp.OutSrcQuenchs = nan
+networkprotocolstats.Icmp.OutTimeExcds = nan
+networkprotocolstats.Icmp.OutTimestampReps = nan
+networkprotocolstats.Icmp.OutTimestamps = nan
+networkprotocolstats.IcmpMsg.InType0 = --
+networkprotocolstats.IcmpMsg.InType3 = nan
+networkprotocolstats.IcmpMsg.InType8 = --
+networkprotocolstats.Ip.DefaultTTL = nan
+networkprotocolstats.Ip.ForwDatagrams = nan
+networkprotocolstats.Ip.Forwarding = nan
+networkprotocolstats.Ip.FragCreates = 0.190424219763
+networkprotocolstats.Ip.FragFails = nan
+networkprotocolstats.Ip.FragOKs = 0.190424219763
+networkprotocolstats.Ip.InAddrErrors = nan
+networkprotocolstats.Ip.InDelivers = 0.00962683399765
+networkprotocolstats.Ip.InDiscards = nan
+networkprotocolstats.Ip.InHdrErrors = nan
+networkprotocolstats.Ip.InReceives = 0.00962690191785
+networkprotocolstats.Ip.InUnknownProtos = nan
+networkprotocolstats.Ip.OutDiscards = 0.772542562991
+networkprotocolstats.Ip.OutNoRoutes = nan
+networkprotocolstats.Ip.OutRequests = 0.0156250356664
+networkprotocolstats.Ip.ReasmFails = nan
+networkprotocolstats.Ip.ReasmOKs = nan
+networkprotocolstats.Ip.ReasmReqds = nan
+networkprotocolstats.Ip.ReasmTimeout = nan
+networkprotocolstats.Tcp.ActiveOpens = 0.501791700717
+networkprotocolstats.Tcp.AttemptFails = 6.88480451029e-05
+networkprotocolstats.Tcp.CurrEstab = 0.971367459653
+networkprotocolstats.Tcp.EstabResets = 0.00933139255119
+networkprotocolstats.Tcp.InErrs = nan
+networkprotocolstats.Tcp.InSegs = 0.00943255794739
+networkprotocolstats.Tcp.MaxConn = nan
+networkprotocolstats.Tcp.OutRsts = 0.0142008868434
+networkprotocolstats.Tcp.OutSegs = 0.0321634406564
+networkprotocolstats.Tcp.PassiveOpens = 0.0197993974698
+networkprotocolstats.Tcp.RetransSegs = 0.719114386957
+networkprotocolstats.Tcp.RtoAlgorithm = nan
+networkprotocolstats.Tcp.RtoMax = nan
+networkprotocolstats.Tcp.RtoMin = nan
+networkprotocolstats.Udp.InDatagrams = 0.178246733079
+networkprotocolstats.Udp.InErrors = nan
+networkprotocolstats.Udp.NoPorts = 0.841602913856
+networkprotocolstats.Udp.OutDatagrams = 0.379401852832
+networkprotocolstats.Udp.RcvbufErrors = nan
+networkprotocolstats.Udp.SndbufErrors = 0.810346302437
+networkprotocolstats.UdpLite.InDatagrams = nan
+networkprotocolstats.UdpLite.InErrors = nan
+networkprotocolstats.UdpLite.NoPorts = nan
+networkprotocolstats.UdpLite.OutDatagrams = nan
+networkprotocolstats.UdpLite.RcvbufErrors = nan
+networkprotocolstats.UdpLite.SndbufErrors = nan
+networkprotocolstats.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_smapstats.tsv_t.tsv = (272, 33)
+./WL1throttleon/2017-12-07_hr_system_smapstats.tsv_t.tsv = (194, 33)
+('WL1: ', 27)
+('WL2: ', 27)
+Unnamed: 0 = 4.51016670795e-09
+smapstats.minuteSinceMidnight = 0.0
+smapstats.BKProxyMain.AveragePss = 0.315788787697
+smapstats.BKProxyMain.AverageRss = 0.315277016258
+smapstats.BKProxyMain.AverageUss = 0.316023227218
+smapstats.BKProxyMain.MaxPss = 0.326455413335
+smapstats.BKProxyMain.MaxRss = 0.326480742249
+smapstats.BKProxyMain.MaxUss = 0.32648652054
+smapstats.BKProxyMain.MinPss = 0.30537218151
+smapstats.BKProxyMain.MinRss = 0.304349217288
+smapstats.BKProxyMain.MinUss = 0.305800373948
+smapstats.BKProxyMain.TotalPss = 0.373985181879
+smapstats.BKProxyMain.TotalRss = 0.374196150932
+smapstats.BKProxyMain.TotalUss = 0.373995154096
+smapstats.postgres.AveragePss = 0.803286423855
+smapstats.postgres.AverageRss = 0.668239937725
+smapstats.postgres.AverageUss = 0.801888996719
+smapstats.postgres.MaxPss = 0.376582818672
+smapstats.postgres.MaxRss = 0.335387275695
+smapstats.postgres.MaxUss = 0.375648899918
+smapstats.postgres.MinPss = 0.388275796337
+smapstats.postgres.MinRss = 0.409246847873
+smapstats.postgres.MinUss = 0.382305279654
+smapstats.postgres.TotalPss = 0.0566064325554
+smapstats.postgres.TotalRss = 0.0197463701906
+smapstats.postgres.TotalUss = 0.0565648665622
+smapstats.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
+./WL1/2017-12-07_hr_system_vmstat.tsv_t.tsv = (272, 136)
+./WL1throttleon/2017-12-07_hr_system_vmstat.tsv_t.tsv = (194, 136)
+('WL1: ', 130)
+('WL2: ', 130)
+Unnamed: 0 = 4.51016670795e-09
+vmstat.minuteSinceMidnight = 0.0
+vmstat.allocstall = 1.71908267315e-11
+vmstat.balloon_deflate = --
+vmstat.balloon_inflate = --
+vmstat.balloon_migrate = --
+vmstat.compact_blocks_moved = nan
+vmstat.compact_fail = 1.71874774507e-11
+vmstat.compact_free_scanned = --
+vmstat.compact_isolated = --
+vmstat.compact_migrate_scanned = --
+vmstat.compact_pagemigrate_failed = nan
+vmstat.compact_pages_moved = nan
+vmstat.compact_stall = 1.71851105644e-11
+vmstat.compact_success = 1.7184684672e-11
+vmstat.drop_pagecache = --
+vmstat.drop_slab = --
+vmstat.htlb_buddy_alloc_fail = nan
+vmstat.htlb_buddy_alloc_success = 1.72014103517e-11
+vmstat.kswapd_high_wmark_hit_quickly = 1.7203604311e-11
+vmstat.kswapd_inodesteal = 5.45303079313e-10
+vmstat.kswapd_low_wmark_hit_quickly = 1.72028425398e-11
+vmstat.kswapd_skip_congestion_wait = nan
+vmstat.kswapd_steal = nan
+vmstat.nr_active_anon = 0.411739402829
+vmstat.nr_active_file = 0.449824155749
+vmstat.nr_alloc_batch = --
+vmstat.nr_anon_pages = 0.890140145358
+vmstat.nr_anon_transparent_hugepages = 2.03920512812e-09
+vmstat.nr_bounce = nan
+vmstat.nr_dirtied = --
+vmstat.nr_dirty = 0.497611049021
+vmstat.nr_dirty_background_threshold = --
+vmstat.nr_dirty_threshold = --
+vmstat.nr_file_pages = 0.0111466645334
+vmstat.nr_free_cma = --
+vmstat.nr_free_pages = 1.33903367403e-07
+vmstat.nr_inactive_anon = 2.05875983284e-10
+vmstat.nr_inactive_file = 3.42789344107e-12
+vmstat.nr_isolated_anon = 0.236781940441
+vmstat.nr_isolated_file = nan
+vmstat.nr_kernel_stack = 3.61690919457e-09
+vmstat.nr_mapped = 3.54086529967e-07
+vmstat.nr_mlock = 1.70240776983e-11
+vmstat.nr_page_table_pages = 0.0314092955457
+vmstat.nr_shmem = 1.7224097871e-11
+vmstat.nr_slab_reclaimable = 1.47274352839e-09
+vmstat.nr_slab_unreclaimable = 5.36607656771e-11
+vmstat.nr_unevictable = 1.70240776983e-11
+vmstat.nr_unstable = nan
+vmstat.nr_vmscan_immediate_reclaim = --
+vmstat.nr_vmscan_write = 0.0521392812835
+vmstat.nr_writeback = 0.430040631616
+vmstat.nr_writeback_temp = nan
+vmstat.nr_written = --
+vmstat.numa_foreign = 0.0130423048445
+vmstat.numa_hint_faults = --
+vmstat.numa_hint_faults_local = --
+vmstat.numa_hit = 0.00682291276904
+vmstat.numa_huge_pte_updates = --
+vmstat.numa_interleave = 1.7204644257e-11
+vmstat.numa_local = 0.00682465112157
+vmstat.numa_miss = 0.0130423048445
+vmstat.numa_other = 0.0130073700198
+vmstat.numa_pages_migrated = --
+vmstat.numa_pte_updates = --
+vmstat.pageoutrun = 1.71495926745e-11
+vmstat.pgactivate = 0.352197218813
+vmstat.pgalloc_dma = nan
+vmstat.pgalloc_dma32 = 1.71673534218e-11
+vmstat.pgalloc_movable = nan
+vmstat.pgalloc_normal = 0.0190540239129
+vmstat.pgdeactivate = 0.0282652248232
+vmstat.pgfault = 1.88576632132e-05
+vmstat.pgfree = 0.0190681261802
+vmstat.pginodesteal = 1.01441565211e-10
+vmstat.pgmajfault = 4.51393022883e-06
+vmstat.pgmigrate_fail = --
+vmstat.pgmigrate_success = --
+vmstat.pgpgin = 7.29709937284e-11
+vmstat.pgpgout = 0.366041833261
+vmstat.pgrefill_dma = nan
+vmstat.pgrefill_dma32 = 1.72014103517e-11
+vmstat.pgrefill_movable = nan
+vmstat.pgrefill_normal = 0.0283014059921
+vmstat.pgrotated = 4.9359838318e-05
+vmstat.pgscan_direct_dma = nan
+vmstat.pgscan_direct_dma32 = nan
+vmstat.pgscan_direct_movable = nan
+vmstat.pgscan_direct_normal = 1.71936369085e-11
+vmstat.pgscan_direct_throttle = --
+vmstat.pgscan_kswapd_dma = nan
+vmstat.pgscan_kswapd_dma32 = 1.72014103517e-11
+vmstat.pgscan_kswapd_movable = nan
+vmstat.pgscan_kswapd_normal = 1.2409047259e-07
+vmstat.pgsteal_direct_dma = --
+vmstat.pgsteal_direct_dma32 = --
+vmstat.pgsteal_direct_movable = --
+vmstat.pgsteal_direct_normal = --
+vmstat.pgsteal_dma = nan
+vmstat.pgsteal_dma32 = nan
+vmstat.pgsteal_kswapd_dma = --
+vmstat.pgsteal_kswapd_dma32 = --
+vmstat.pgsteal_kswapd_movable = --
+vmstat.pgsteal_kswapd_normal = --
+vmstat.pgsteal_movable = nan
+vmstat.pgsteal_normal = nan
+vmstat.pswpin = 0.260592063542
+vmstat.pswpout = 0.260592063542
+vmstat.slabs_scanned = 0.00624200765556
+vmstat.thp_collapse_alloc = 0.210942784891
+vmstat.thp_collapse_alloc_failed = nan
+vmstat.thp_fault_alloc = 0.00493499700248
+vmstat.thp_fault_fallback = 0.747353919799
+vmstat.thp_split = 1.78141056807e-11
+vmstat.thp_zero_page_alloc = --
+vmstat.thp_zero_page_alloc_failed = --
+vmstat.unevictable_pgs_cleared = 1.20204711835e-10
+vmstat.unevictable_pgs_culled = 0.88212649177
+vmstat.unevictable_pgs_mlocked = 0.764131684081
+vmstat.unevictable_pgs_mlockfreed = nan
+vmstat.unevictable_pgs_munlocked = 0.883108484831
+vmstat.unevictable_pgs_rescued = 0.765317671108
+vmstat.unevictable_pgs_scanned = nan
+vmstat.unevictable_pgs_stranded = 1.72014103517e-11
+vmstat.workingset_activate = --
+vmstat.workingset_nodereclaim = --
+vmstat.workingset_refault = --
+vmstat.zone_reclaim_failed = nan
+vmstat.minuteSinceMidnight.1 = 0.0
+--------------------------------------------------
