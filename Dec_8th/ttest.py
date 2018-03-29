@@ -17,20 +17,18 @@ for i,current in enumerate(filesA):
 	filesA[i] = path1+filesA[i]
 	filesB[i] = path2+filesB[i]
 	df1 = pd.read_table(filesA[i], sep='\t', low_memory=False)
-	df1_test = df1.select_dtypes(include=numerics)
+	
 	print filesA[i] + " = " + str(df1.shape)
 	df2 = pd.read_table(filesB[i], sep='\t', low_memory=False)
-	df2_test = df2.select_dtypes(include=numerics)
+	
 	print filesB[i] + " = " + str(df2.shape)
-	#print filesB[i]
-	#print len(df.columns)
-	#ne = (df1 != df2).any(1)
+	
 	l1 = list(df1._get_numeric_data())
 	l2 = list(df2._get_numeric_data())
 	print("WL1: ", len(l1))
 	print("WL2: ",len(l2))
 	#assert(l1==l2)
-	#print("--------------------------------------------------")
+	
 	#ne = (df1 != df2).any(1)
 	#print "diff = ", ne
 	#if l1 != l2:
